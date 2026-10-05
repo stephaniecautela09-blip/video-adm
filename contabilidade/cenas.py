@@ -24,6 +24,16 @@ def tomada(tipo, cor):
     return VGroup(corpo, furos)
 
 
+def formula(partes, size=32):
+    """Fórmula em três linhas: [resultado =] / [a × b ×] / [(fração)]. partes = 7 pedaços (texto, cor)."""
+    ts = [T(p.strip(), size=size, color=c) for p, c in partes]
+    l1 = VGroup(ts[0], ts[1]).arrange(RIGHT, buff=0.2)
+    l2 = VGroup(*ts[2:6]).arrange(RIGHT, buff=0.2)
+    l3 = ts[6]
+    g = VGroup(l1, l2, l3).arrange(DOWN, buff=0.18)
+    return VGroup(*ts).move_to(g)
+
+
 class Cena01(Aula):
     CENA = "c1"
 
@@ -487,7 +497,7 @@ class Cena03(Aula):
         di = cartao("Tributo diferido", "o IR/CSLL que será pago ou recuperado em anos futuros, "
                     "por diferenças entre contabilidade e Fisco", cor=AZUL, larg=6.1, n=32,
                     size=26, alt=2.6)
-        VGroup(co, di).arrange(RIGHT, buff=0.35).shift(UP * 1.0)
+        VGroup(co, di).arrange(RIGHT, buff=0.35).shift(UP * 1.55)
         self.em("Tributo corrente", FadeIn(co, shift=UP * 0.2))
         hoje = pilula("a conta de hoje", AMA).next_to(co, DOWN, buff=0.25)
         self.em("a conta de hoje", FadeIn(hoje))
@@ -499,10 +509,10 @@ class Cena03(Aula):
         self.fala("c3_base")
         base = cartao("Base fiscal", "o valor que o Fisco reconhece para um ativo ou passivo",
                       cor=VER, larg=12.5, n=70, size=26)
-        base.next_to(VGroup(hoje, dep), DOWN, buff=0.35)
+        base.next_to(VGroup(hoje, dep), DOWN, buff=0.3)
         self.em("Base fiscal", FadeIn(base, shift=UP * 0.2))
         ex = T("máquina já deduzida: base fiscal = 0   ·   contabilidade: valor contábil maior",
-               size=24, color=AMA).next_to(base, DOWN, buff=0.3)
+               size=22, color=AMA).next_to(base, DOWN, buff=0.22)
         self.em("Essa é a base fiscal", FadeIn(ex))
         self.em("valor contábil", Indicate(ex, color=AMA, scale_factor=1.04))
 
@@ -515,10 +525,10 @@ class Cena03(Aula):
         te = cartao("Diferença temporária", "contabilidade e Fisco reconhecem o mesmo valor, mas "
                     "em anos diferentes. Uma hora se anula.", cor=VER, larg=6.1, n=32, size=25,
                     alt=2.9)
-        VGroup(pe, te).arrange(RIGHT, buff=0.35).shift(UP * 0.9)
+        VGroup(pe, te).arrange(RIGHT, buff=0.35).shift(UP * 1.25)
         self.em("Diferença permanente", FadeIn(pe, shift=UP * 0.2))
         eq = T("equivalência patrimonial = resultado da participação em outra empresa", size=21,
-               color=DIM).next_to(VGroup(pe, te), DOWN, buff=1.15)
+               color=DIM).next_to(VGroup(pe, te), DOWN, buff=0.95)
         self.em("participação que tem em outra empresa", FadeIn(eq))
         n1 = pilula("NÃO gera diferido", VERM, size=24).next_to(pe, DOWN, buff=0.3)
         self.em("não gera diferido", FadeIn(n1, scale=1.2))
@@ -530,12 +540,13 @@ class Cena03(Aula):
         self.fala("c3_ident")
         self.etapa(2)
         self.play(FadeOut(eq), run_time=0.3)
-        per = caixa(T("Um dia o Fisco vai aceitar isso?", size=30, color=AMA), cor=AMA)
-        per.to_edge(DOWN, buff=0.95)
+        per = caixa(T("Um dia o Fisco vai aceitar isso?", size=28, color=AMA), cor=AMA, buff=0.15)
+        per.move_to(DOWN * 1.35)
         self.em("um dia o Fisco vai aceitar isso", FadeIn(per, shift=UP * 0.2))
-        r1 = T("“nunca” → permanente", size=24, color=VERM).next_to(per, LEFT, buff=0.3)
-        r2 = T("“sim, em outro ano” → temporária", size=24, color=VER).next_to(per, RIGHT, buff=0.3)
-        VGroup(r1, per, r2).arrange(RIGHT, buff=0.3).to_edge(DOWN, buff=0.95)
+        r1 = T("“nunca” → permanente", size=24, color=VERM)
+        r2 = T("“sim, em outro ano” → temporária", size=24, color=VER)
+        r1.move_to([pe.get_x(), -2.3, 0])
+        r2.move_to([te.get_x(), -2.3, 0])
         self.em("é permanente", FadeIn(r1))
         self.em("é temporária", FadeIn(r2))
 
@@ -545,12 +556,12 @@ class Cena03(Aula):
         self.cabecalho("Quando nasce passivo e quando nasce ativo diferido")
         self.etapa(1)
         cab = VGroup(T("Hoje", size=28, color=DIM), T("Futuro", size=28, color=DIM))
-        cab[0].move_to([-0.6, 2.3, 0])
-        cab[1].move_to([2.6, 2.3, 0])
+        cab[0].move_to([1.0, 2.3, 0])
+        cab[1].move_to([4.2, 2.3, 0])
         self.play(FadeIn(cab), run_time=0.4)
-        l1 = T("Fisco deixa deduzir ANTES", size=26).move_to([-4.6, 1.2, 0])
-        h1 = T("pago menos ↓", size=28, color=VER).move_to([-0.6, 1.2, 0])
-        f1 = T("pago mais ↑", size=28, color=VERM).move_to([2.6, 1.2, 0])
+        l1 = T("Fisco deixa deduzir ANTES", size=26).move_to([-3.6, 1.2, 0])
+        h1 = T("pago menos ↓", size=28, color=VER).move_to([1.0, 1.2, 0])
+        f1 = T("pago mais ↑", size=28, color=VERM).move_to([4.2, 1.2, 0])
         p1 = caixa(T("PASSIVO fiscal diferido: dívida com o Fisco que fica para depois", size=26,
                      color=VERM), cor=VERM, buff=0.18).move_to([0, 0.25, 0])
         self.em("deduzir antes da contabilidade", FadeIn(l1))
@@ -558,9 +569,9 @@ class Cena03(Aula):
         self.em("vou pagar mais", FadeIn(f1))
         self.em("passivo fiscal diferido", FadeIn(p1, shift=UP * 0.2))
         self.fala("c3_logica2")
-        l2 = T("Fisco só deixa deduzir DEPOIS", size=26).move_to([-4.6, -1.2, 0])
-        h2 = T("pago mais ↑", size=28, color=VERM).move_to([-0.6, -1.2, 0])
-        f2 = T("recupero ↓", size=28, color=VER).move_to([2.6, -1.2, 0])
+        l2 = T("Fisco só deixa deduzir DEPOIS", size=26).move_to([-3.6, -1.2, 0])
+        h2 = T("pago mais ↑", size=28, color=VERM).move_to([1.0, -1.2, 0])
+        f2 = T("recupero ↓", size=28, color=VER).move_to([4.2, -1.2, 0])
         p2 = caixa(T("ATIVO fiscal diferido: crédito que vou receber do Fisco no futuro", size=26,
                      color=VER), cor=VER, buff=0.18).move_to([0, -2.15, 0])
         self.em("deduzir depois", FadeIn(l2))
@@ -578,8 +589,8 @@ class Cena03(Aula):
                "Passivo com valor contábil maior que a base fiscal",
                "Passivo com valor contábil menor que a base fiscal",
                "Prejuízo fiscal a compensar"]
-        g = Grade(rot, ["Diferença temporária", "Nasce"], larg_rot=6.6, larg_cols=[3.2, 3.6],
-                  alt=0.62, size=23, alinhar_valores=None)
+        g = Grade(rot, ["Diferença temporária", "Nasce"], larg_rot=7.3, larg_cols=[3.0, 3.4],
+                  alt=0.62, size=22, alinhar_valores=None, n_rot=70)
         g.move_to(UP * 0.55)
         self.play(FadeIn(g.linhas), FadeIn(g.cab), run_time=0.5)
         defs = VGroup(T("tributável = imposto a mais no futuro", size=22, color=VERM),
@@ -631,9 +642,9 @@ class Cena03(Aula):
                    "não para o resultado (ex.: ganhos atuariais)"),
                   ("4. Exceções", "não se reconhece passivo diferido no reconhecimento inicial de "
                    "goodwill e de certos itens que não afetam nenhum lucro na origem")]
-        rc = VGroup(*[cartao(a, b, cor=c, larg=6.2, n=36, size=22, alt=2.55)
+        rc = VGroup(*[cartao(a, b, cor=c, larg=6.3, n=42, size=21, alt=2.25)
                       for (a, b), c in zip(regras, [VER, AMA, ROXO, VERM])])
-        rc.arrange_in_grid(2, 2, buff=0.3).shift(DOWN * 0.15)
+        rc.arrange_in_grid(2, 2, buff=0.25).shift(UP * 0.35)
         for k, card in zip(["c3_r1", "c3_r2", "c3_r3", "c3_r4"], rc):
             self.fala(k)
             self.play(FadeIn(card, shift=UP * 0.2), run_time=0.6)
@@ -646,9 +657,9 @@ class Cena03(Aula):
                 gw = caixa(T("goodwill = valor pago a mais na compra de uma empresa", size=21,
                              color=VERM), cor=VERM, buff=0.12).to_edge(DOWN, buff=0.75)
                 self.em("goodwill", FadeOut(ora), FadeIn(gw))
-                sem = T("o material só lista as exceções, sem exemplo numérico", size=20,
-                        color=DIM).next_to(gw, UP, buff=0.1)
-                self.em("sem exemplo numérico", FadeIn(sem))
+                sem = caixa(T("o material só lista as exceções, sem exemplo numérico", size=21,
+                              color=DIM), cor=DIM, buff=0.12).move_to(gw)
+                self.em("sem exemplo numérico", FadeOut(gw), FadeIn(sem))
 
         # --- método de 8 passos
         self.fala("c3_m1")
@@ -669,7 +680,10 @@ class Cena03(Aula):
             n = T(f"{k + 1}", size=26, color=BG, weight=BOLD)
             bola = Circle(radius=0.24, color=c, stroke_width=0).set_fill(c, 1)
             n.move_to(bola)
-            itens.add(VGroup(VGroup(bola, n), T(s, size=25, color=c)).arrange(RIGHT, buff=0.3))
+            it = VGroup(VGroup(bola, n), T(s, size=25, color=c)).arrange(RIGHT, buff=0.3)
+            if it.width > 12.4:
+                it.scale_to_fit_width(12.4)
+            itens.add(it)
         itens.arrange(DOWN, aligned_edge=LEFT, buff=0.2).move_to(DOWN * 0.15).to_edge(LEFT, buff=1.0)
         for k, it in enumerate(itens):
             if k:
@@ -1060,6 +1074,7 @@ class Cena05(Aula):
         fs.arrange(RIGHT, buff=0.3).shift(UP * 0.5)
         for f in fs:
             f[2].set_opacity(0)
+            self.add(f[2])
         self.em("com ações", FadeIn(fs[0][:2]))
         self.em("opções de ações", FadeIn(fs[1][:2]))
         self.em("dinheiro atrelado", FadeIn(fs[2][:2]), fs[2][2].animate.set_opacity(1))
@@ -1089,8 +1104,7 @@ class Cena05(Aula):
         dire = T("direito", size=22, color=VER).move_to([x1 + 0.7, y, 0])
         termos = [("Data da outorga", "quando a empresa promete as ações", AMA),
                   ("Período de aquisição (vesting)", "tempo até o empregado ter direito", AZUL),
-                  ("Condição de serviço", "ficar na empresa por um prazo; se sair, perde → ajusta a "
-                   "quantidade esperada", VER),
+                  ("Condição de serviço", "ficar por um prazo; se sair, perde → ajusta a quantidade", VER),
                   ("Condição de desempenho", "atingir uma meta (ex.: ROI) → também ajusta a quantidade", VER),
                   ("Valor justo", "quanto vale cada opção: é a base da despesa", AMA)]
         lista = VGroup(*[VGroup(T(a + ":", size=24, color=c, weight=BOLD), T(b, size=24))
@@ -1147,8 +1161,8 @@ class Cena05(Aula):
         self.etapa(0)
         rot = ["Contrapartida da despesa", "Valor justo usado", "Muda quando o preço da ação muda?",
                "O que se revisa ao longo do tempo"]
-        g = Grade(rot, ["Em ações", "Em caixa"], larg_rot=4.4, larg_cols=[4.6, 4.2], alt=0.62,
-                  alts=[0.85, 0.85, 0.7, 0.85], size=23, alinhar_valores=LEFT, n_rot=22)
+        g = Grade(rot, ["Em ações", "Em caixa"], larg_rot=4.7, larg_cols=[4.3, 4.6], alt=0.62,
+                  alts=[0.85, 0.62, 0.85, 0.85], size=23, alinhar_valores=LEFT, n_rot=24)
         g.move_to(UP * 0.4)
         self.play(FadeIn(g.linhas), FadeIn(g.cab), run_time=0.5)
         quadro = [("PL (reserva de capital)", "Passivo"),
@@ -1180,14 +1194,13 @@ class Cena05(Aula):
         self.etapa(3)
         partes = [("Despesa acumulada", AMA), (" = ", TXT), ("quantidade esperada", VER), (" × ", TXT),
                   ("valor justo", AZUL), (" × ", TXT), ("(anos decorridos ÷ anos totais)", ROXO)]
-        f = VGroup(*[T(s, size=30, color=c) for s, c in partes]).arrange(RIGHT, buff=0.08)
-        f.scale_to_fit_width(13.2).shift(UP * 1.8)
+        f = formula(partes).shift(UP * 1.75)
         self.em("Despesa acumulada", FadeIn(f[0]), FadeIn(f[1]))
         self.em("quantidade esperada", FadeIn(f[2]), FadeIn(f[3]))
         self.em("o valor justo", FadeIn(f[4]), FadeIn(f[5]))
         self.em("anos totais", FadeIn(f[6]))
         self.fala("c5_form2")
-        f2 = T("Despesa do ano = acumulada deste ano − acumulada do ano anterior", size=30, color=AMA)
+        f2 = T("Despesa do ano = acumulada deste ano − acumulada do ano anterior", size=28, color=AMA)
         f2.next_to(f, DOWN, buff=0.4)
         self.em("despesa do ano", FadeIn(f2, shift=UP * 0.2))
         self.fala("c5_ex")
@@ -1315,7 +1328,8 @@ class Cena05(Aula):
                        "200.000/ano · despesa 60.000/ano · 34%")
         rot = ["Lucro antes do PBA", "(−) Despesa com PBA", "LAIR",
                "IR corrente (lucro real 200.000 × 34%)", "IR diferido (ativo)", "Lucro líquido"]
-        g = Grade(rot, ["Ano 1", "Ano 2", "Ano 3"], larg_rot=5.6, larg_col=2.6, alt=0.6, size=24)
+        g = Grade(rot, ["Ano 1", "Ano 2", "Ano 3"], larg_rot=6.3, larg_col=2.4, alt=0.6, size=24,
+                  n_rot=60)
         g.move_to(UP * 0.55)
         self.play(FadeOut(VGroup(en, dp)), FadeIn(d), FadeIn(g.linhas), FadeIn(g.cab), run_time=0.6)
         for i, (tr, v, cor) in enumerate([("PBA: 200.000", "200.000", TXT),
@@ -1365,8 +1379,7 @@ class Cena06(Aula):
         self.fala("c6_form")
         partes = [("Passivo acumulado", VERM), (" = ", TXT), ("quantidade esperada", VER), (" × ", TXT),
                   ("valor justo DO ANO", AZUL), (" × ", TXT), ("(anos decorridos ÷ anos totais)", ROXO)]
-        f = VGroup(*[T(s, size=30, color=c) for s, c in partes]).arrange(RIGHT, buff=0.08)
-        f.scale_to_fit_width(13.2).shift(DOWN * 0.7)
+        f = formula(partes).shift(DOWN * 0.75)
         self.em("Passivo acumulado", FadeIn(f[0]), FadeIn(f[1]))
         self.em("quantidade esperada", FadeIn(f[2]), FadeIn(f[3]))
         self.em("valor justo do ano", FadeIn(f[4]), FadeIn(f[5]), Indicate(f[4], color=AMA))
@@ -1523,8 +1536,8 @@ class Cena06(Aula):
         self.em("dá 193.600", Create(r), *self.conta("48.000 + 54.000 + 91.600 = 193.600 = valor pago ao final  ✓", cor=VER))
         self.fala("c6_c2_lanc")
         self.play(FadeOut(r), *self.sem_conta(), run_time=0.3)
-        l1 = lancamento([("D", "Despesa com PBA", "despesa do ano"), ("C", "Passivo por PBA a liquidar", "despesa do ano")],
-                        titulo="Lançamento anual", larg=6.6, size=21)
+        l1 = lancamento([("D", "Despesa com PBA", "do ano"), ("C", "Passivo por PBA a liquidar", "do ano")],
+                        titulo="Lançamento anual", larg=6.4, size=21)
         l2 = lancamento([("D", "Passivo por PBA", "193.600"), ("C", "Caixa", "193.600")],
                         titulo="Liquidação", larg=5.4, size=21, cor=VERM)
         VGroup(l1, l2).arrange(RIGHT, buff=0.3).next_to(g, DOWN, buff=0.35)
@@ -1665,8 +1678,8 @@ class Cena09(Aula):
                "prova dos nove"]
         chips = VGroup(*[pilula(p, AMA if k < 5 else (AZUL if k == 5 else VER), 24)
                          for k, p in enumerate(passos)])
-        l1 = VGroup(*chips[:4]).arrange(RIGHT, buff=0.5)
-        l2 = VGroup(*chips[4:]).arrange(RIGHT, buff=0.5)
+        l1 = VGroup(*chips[:4]).arrange(RIGHT, buff=0.4)
+        l2 = VGroup(*chips[4:]).arrange(RIGHT, buff=0.3)
         VGroup(l1, l2).arrange(DOWN, buff=0.45).shift(UP * 1.5)
         for tr, c in zip(trs, chips):
             self.em(tr, FadeIn(c, shift=RIGHT * 0.2), rt=0.4)

@@ -43,21 +43,13 @@ def T(s, size=30, color=TXT, weight=NORMAL, **kw):
 
 
 def Tb(s, ponto, alinhar=None, x_borda=None, **kw):
-    """Texto alinhado pela linha de base: um "|" no início de cada linha (depois removido)
-    iguala a altura de todas as células, para que "Lucro líquido" e "LAIR" fiquem na mesma
-    linha."""
-    linhas = s.split("\n")
-    idx, n = [], 0
-    for ln in linhas:
-        idx.append(n)
-        n += 1 + len(re.sub(r"\s", "", ln))
-    t = T("\n".join("|" + ln for ln in linhas), **kw)
-    barras = [t.submobjects[i] for i in idx]
-    ref = VGroup(*[m for m in t.submobjects])
-    dy = ponto[1] - ref.get_center()[1]
-    for b in barras:
-        t.remove(b)
-    t.shift(UP * dy)
+    """Texto alinhado pela linha de base: posiciona uma cópia com um "|" na frente (que tem
+    sempre a mesma altura) e encaixa o texto real nela, para que "Lucro líquido" e "LAIR"
+    fiquem na mesma linha."""
+    t = T(s, **kw)
+    ref = T("|" + s, **kw)
+    ref.shift(ponto - ref.get_center())
+    t.shift(ref.submobjects[1].get_center() - t.submobjects[0].get_center())
     if alinhar is None:
         t.set_x(ponto[0])
     else:
@@ -93,8 +85,20 @@ def caixa(m, cor=AZUL, buff=0.25, fill=PAINEL, op=1.0, raio=0.12):
 
 def cartao(titulo, corpo, cor=AZUL, larg=4.0, n=28, size=24, alt=None, rodape=None):
     """Cartão com título colorido, texto e (opcional) rodapé; o conteúdo encolhe para caber."""
-    t = T(titulo, size=size + 4, color=cor, weight=BOLD)
-    c = P(corpo, n=n, size=size)
+    livre = larg - 0.45
+
+    def cabe(fazer, s, n0):
+        """Quebra o texto em linhas cada vez mais curtas até caber na largura do cartão."""
+        k = n0
+        m = fazer(quebra(s, k))
+        while m.width > livre and k > 10:
+            k -= 2
+            m = fazer(quebra(s, k))
+        return m
+
+    t = cabe(lambda s: T(s, size=size + 4, color=cor, weight=BOLD, line_spacing=0.85), titulo,
+             max(len(titulo), 10))
+    c = cabe(lambda s: T(s, size=size, color=TXT, line_spacing=0.9), corpo, n)
     g = VGroup(t, c)
     if rodape:
         g.add(T(rodape, size=size - 2, color=cor))
