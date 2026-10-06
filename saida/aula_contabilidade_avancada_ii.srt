@@ -1,0 +1,2818 @@
+1
+00:00:00,000 --> 00:00:05,320
+Olá! Esta é a sua aula de revisão para a Avaliação
+1 de Contabilidade Avançada II, com o
+
+2
+00:00:05,320 --> 00:00:08,608
+professor Ilírio. A ideia aqui não
+é um resumo corrido.
+
+3
+00:00:08,608 --> 00:00:13,331
+É você entender cada conceito e conseguir
+fazer as contas sozinha, com tabela e
+
+4
+00:00:13,331 --> 00:00:14,048
+lançamentos.
+
+5
+00:00:14,400 --> 00:00:20,762
+A prova cobre três unidades. Unidade 1: a
+internacionalização das normas contábeis e o ESG,
+
+6
+00:00:20,762 --> 00:00:26,670
+com a OCPC 09. Unidade 2: tributos
+sobre o lucro, o CPC 32.
+
+7
+00:00:26,670 --> 00:00:33,812
+Unidade 3: pagamento baseado em ações, o CPC 10,
+e benefícios a empregados, o CPC 33.
+
+8
+00:00:34,167 --> 00:00:36,652
+Repare no que é teoria e no que é cálculo.
+
+9
+00:00:36,652 --> 00:00:40,321
+A Unidade 1 é só teoria. A Unidade 2
+tem teoria e cálculo:
+
+10
+00:00:40,321 --> 00:00:45,647
+o imposto corrente e o diferido. A Unidade 3 tem
+cálculo no pagamento baseado em ações.
+
+11
+00:00:45,647 --> 00:00:49,434
+Já os benefícios a empregados, no nosso
+material, são só teoria.
+
+12
+00:00:49,800 --> 00:00:53,990
+Cada conceito vai seguir sempre a mesma
+ordem, que você vê nesta faixa:
+
+13
+00:00:53,990 --> 00:00:59,065
+o que é, por que existe, como se identifica, um
+exemplo, e como isso aparece na prova.
+
+14
+00:00:59,400 --> 00:01:03,332
+Um detalhe honesto: o material não traz
+questões teóricas do professor.
+
+15
+00:01:03,332 --> 00:01:08,095
+Então, quando eu disser "na prova", estou falando
+do que você precisa saber responder, e
+
+16
+00:01:08,095 --> 00:01:10,476
+não de uma questão que eu sei que vai cair.
+
+17
+00:01:10,833 --> 00:01:15,825
+Três avisos antes de começar. Primeiro: as questões
+resolvidas deste vídeo foram elaboradas
+
+18
+00:01:15,825 --> 00:01:18,404
+para treino, no estilo das listas do professor.
+
+19
+00:01:18,404 --> 00:01:19,610
+Não são questões dele.
+
+20
+00:01:19,967 --> 00:01:27,734
+Segundo: o tratamento fiscal do pagamento baseado
+em ações segue a Lei 12.973, de 2014,
+
+21
+00:01:27,734 --> 00:01:33,307
+artigo 33, como diferença temporária. Confirme
+com o professor se ele adota o mesmo
+
+22
+00:01:33,307 --> 00:01:33,841
+critério.
+
+23
+00:01:34,200 --> 00:01:37,249
+Terceiro: confirme a data da
+prova com o professor.
+
+24
+00:01:37,249 --> 00:01:37,787
+Vamos lá.
+
+25
+00:01:38,733 --> 00:01:42,502
+Unidade 1: internacionalização das
+normas contábeis e ESG.
+
+26
+00:01:42,502 --> 00:01:45,632
+Primeiro, duas palavras que vão
+aparecer o tempo todo.
+
+27
+00:01:45,632 --> 00:01:50,560
+Norma contábil é a regra que diz como a empresa
+registra e apresenta os seus números.
+
+28
+00:01:50,560 --> 00:01:55,778
+E comparabilidade é poder colocar duas empresas lado
+a lado e comparar os números delas de
+
+29
+00:01:55,778 --> 00:01:56,473
+forma justa.
+
+30
+00:01:56,833 --> 00:02:00,879
+O problema. O que é: cada país tinha as
+suas próprias normas contábeis.
+
+31
+00:02:00,879 --> 00:02:05,722
+Então a mesma empresa apresentava lucros
+diferentes, conforme o país cujas regras ela
+
+32
+00:02:05,722 --> 00:02:06,121
+seguia.
+
+33
+00:02:06,467 --> 00:02:11,396
+Dois casos mostram isso. A Daimler-Benz tinha lucro
+pelas normas alemãs e prejuízo pelas
+
+34
+00:02:11,396 --> 00:02:16,045
+normas americanas. Mesma empresa, e o resultado
+muda de sinal só por mudar a regra.
+
+35
+00:02:16,400 --> 00:02:21,762
+A Sadia mostrava margens diferentes em BR GAAP,
+que são as normas brasileiras, e em US
+
+36
+00:02:21,762 --> 00:02:26,593
+GAAP, as normas americanas. GAAP é a sigla em
+inglês para o conjunto de princípios
+
+37
+00:02:26,593 --> 00:02:28,184
+contábeis aceitos num país.
+
+38
+00:02:28,533 --> 00:02:33,520
+Por que isso virou um problema: com o crescimento
+do comércio e do mercado de capitais, o
+
+39
+00:02:33,520 --> 00:02:36,602
+investidor estrangeiro não
+conseguia comparar empresas.
+
+40
+00:02:36,602 --> 00:02:41,252
+Pense em comparar dois preços, um em reais e
+outro numa moeda que você não conhece.
+
+41
+00:02:41,252 --> 00:02:42,709
+Sem a mesma régua, não dá.
+
+42
+00:02:43,067 --> 00:02:45,935
+A solução foi criar um conjunto único de normas:
+
+43
+00:02:45,935 --> 00:02:49,639
+as IFRS, as normas
+internacionais de contabilidade.
+
+44
+00:02:49,639 --> 00:02:52,208
+Na prova, você precisa saber explicar isso:
+
+45
+00:02:52,208 --> 00:02:57,765
+o motivo das IFRS é a comparabilidade, e os
+exemplos são a Daimler-Benz e a Sadia.
+
+46
+00:02:58,100 --> 00:03:00,867
+Mas por que os países contabilizavam diferente?
+
+47
+00:03:00,867 --> 00:03:03,752
+A resposta está no sistema
+jurídico de cada país:
+
+48
+00:03:03,752 --> 00:03:07,049
+code law ou common law. No code law,
+o direito é codificado:
+
+49
+00:03:07,049 --> 00:03:11,405
+a lei diz tudo. No common law, o direito se
+baseia em costumes e princípios.
+
+50
+00:03:11,767 --> 00:03:14,647
+Quem faz a norma. No code law, o
+governo, por lei.
+
+51
+00:03:14,647 --> 00:03:19,290
+No common law, organismos privados, como o
+FASB, um organismo privado americano.
+
+52
+00:03:19,633 --> 00:03:23,383
+Usuário principal, ou seja, para quem
+a contabilidade é feita.
+
+53
+00:03:23,383 --> 00:03:27,860
+No code law, o credor, e também o Fisco, que
+é o governo cobrando impostos.
+
+54
+00:03:27,860 --> 00:03:29,432
+No common law, o investidor.
+
+55
+00:03:29,767 --> 00:03:34,492
+Estilo. Code law é baseado em regras.
+Common law é baseado em princípios.
+
+56
+00:03:34,833 --> 00:03:38,545
+Ideia central. No code law,
+conservadorismo e "imagem fiel" à lei.
+
+57
+00:03:38,545 --> 00:03:43,435
+No common law, essência sobre a forma, e true and
+fair view, a visão verdadeira e justa.
+
+58
+00:03:43,435 --> 00:03:48,502
+Essência sobre a forma quer dizer: registrar o que
+a operação realmente é, mesmo que o
+
+59
+00:03:48,502 --> 00:03:49,857
+papel diga outra coisa.
+
+60
+00:03:50,200 --> 00:03:54,719
+Países. Code law: o Brasil, antes, a
+Alemanha, a França e a Itália.
+
+61
+00:03:54,719 --> 00:03:58,699
+Common law: Estados Unidos,
+Inglaterra, Canadá e Austrália.
+
+62
+00:03:59,033 --> 00:04:04,419
+Como identificar numa questão: se fala em lei
+detalhada, governo, credor, Fisco, regras e
+
+63
+00:04:04,419 --> 00:04:09,381
+conservadorismo, é code law. Se fala em
+organismo privado, investidor, princípios e
+
+64
+00:04:09,381 --> 00:04:14,524
+essência sobre a forma, é common law. Repare que a
+Daimler-Benz cruzava os dois mundos:
+
+65
+00:04:14,524 --> 00:04:17,307
+Alemanha, code law, e Estados
+Unidos, common law.
+
+66
+00:04:17,667 --> 00:04:22,543
+E guarde o problema do code law: a lei é difícil de
+mudar e não acompanha a evolução dos
+
+67
+00:04:22,543 --> 00:04:27,644
+negócios. Na prova: saber montar este quadro, linha
+por linha, e dizer qual é o problema do
+
+68
+00:04:27,644 --> 00:04:28,092
+code law.
+
+69
+00:04:28,433 --> 00:04:31,495
+Agora, três palavras parecidas
+que confundem muito:
+
+70
+00:04:31,495 --> 00:04:34,016
+padronização, harmonização e convergência.
+
+71
+00:04:34,016 --> 00:04:37,919
+Uma analogia ajuda: pense nas tomadas
+elétricas de vários países.
+
+72
+00:04:38,267 --> 00:04:42,731
+Padronização: todos seguem exatamente a
+mesma regra, sem flexibilidade.
+
+73
+00:04:42,731 --> 00:04:46,440
+Na analogia, todos os países usam a
+mesma tomada, idêntica.
+
+74
+00:04:46,800 --> 00:04:51,547
+Harmonização: cada país mantém as suas
+particularidades, mas dá para reconciliar os
+
+75
+00:04:51,547 --> 00:04:56,465
+números. É manter tomadas diferentes, mas ter um
+adaptador que faz uma conversar com a
+
+76
+00:04:56,465 --> 00:04:56,808
+outra.
+
+77
+00:04:57,167 --> 00:05:01,925
+Convergência: reduzir as diferenças adotando
+normas que seguem um mesmo referencial.
+
+78
+00:05:01,925 --> 00:05:06,684
+É cada país ir trocando a sua tomada por uma que
+segue o mesmo modelo de referência.
+
+79
+00:05:06,684 --> 00:05:10,309
+Esse é o conceito adotado pelo
+IASB a partir de 2000.
+
+80
+00:05:10,667 --> 00:05:14,481
+Na prova, o que diferencia:
+padronização não tem flexibilidade.
+
+81
+00:05:14,481 --> 00:05:18,053
+Harmonização mantém as diferenças,
+mas permite reconciliar.
+
+82
+00:05:18,053 --> 00:05:23,623
+Convergência reduz as diferenças rumo a um
+referencial comum, e é o que o IASB adota.
+
+83
+00:05:23,967 --> 00:05:26,335
+Agora a linha do tempo. São cinco datas.
+
+84
+00:05:26,700 --> 00:05:32,807
+1973: criação do IASC, o antecessor do IASB.
+
+85
+00:05:33,167 --> 00:05:37,823
+2000: o IASC vira IASB, uma
+organização não governamental.
+
+86
+00:05:37,823 --> 00:05:43,154
+E a IOSCO, a organização internacional que reúne
+os reguladores de mercados de valores,
+
+87
+00:05:43,154 --> 00:05:47,075
+recomenda o uso das IAS, as normas
+internacionais da época.
+
+88
+00:05:47,433 --> 00:05:52,956
+2005: a União Europeia torna as IAS
+obrigatórias nas demonstrações consolidadas.
+
+89
+00:05:52,956 --> 00:05:58,081
+Demonstrações consolidadas são as que juntam a
+empresa-mãe e as empresas que ela controla,
+
+90
+00:05:58,081 --> 00:05:59,334
+como se fossem uma só.
+
+91
+00:05:59,700 --> 00:06:06,059
+2007, no Brasil: a Lei 11.638, de
+2007. Ela faz três coisas.
+
+92
+00:06:06,059 --> 00:06:09,497
+Autoriza a convergência. Separa o
+Fisco dos demais usuários.
+
+93
+00:06:09,497 --> 00:06:12,075
+E traz o princípio da essência sobre a forma.
+
+94
+00:06:12,075 --> 00:06:17,231
+Guarde a separação do Fisco: é ela que vai gerar as
+diferenças entre contabilidade e Fisco
+
+95
+00:06:17,231 --> 00:06:18,949
+que estudamos na Unidade 2.
+
+96
+00:06:19,300 --> 00:06:24,838
+2010: as normas do CPC baseadas nas IFRS
+entram em vigor no Brasil.
+
+97
+00:06:25,200 --> 00:06:30,213
+Para memorizar: 73, nasce o
+IASC. 2000, vira IASB.
+
+98
+00:06:30,213 --> 00:06:36,229
+2005, Europa. 2007, a lei
+brasileira. 2010, CPCs em vigor.
+
+99
+00:06:36,567 --> 00:06:42,098
+No Brasil, o CPC, o Comitê de Pronunciamentos
+Contábeis, emite três tipos de documento.
+
+100
+00:06:42,098 --> 00:06:43,962
+Você precisa saber a diferença.
+
+101
+00:06:44,300 --> 00:06:47,535
+O CPC, o Pronunciamento, é a norma em si.
+
+102
+00:06:47,535 --> 00:06:53,725
+Define reconhecimento, que é quando registrar;
+mensuração, que é por quanto registrar; e
+
+103
+00:06:53,725 --> 00:06:58,789
+divulgação, que é o que mostrar.
+Equivale às IAS e IFRS.
+
+104
+00:06:59,133 --> 00:07:04,846
+O ICPC, a Interpretação, esclarece dúvidas de
+um CPC, para evitar interpretações
+
+105
+00:07:04,846 --> 00:07:09,617
+diferentes. Equivale às IFRIC e SIC, as
+interpretações internacionais.
+
+106
+00:07:09,967 --> 00:07:13,798
+O OCPC, a Orientação, é um guia
+prático de aplicação.
+
+107
+00:07:13,798 --> 00:07:17,760
+Não é norma nova. Uma analogia: o
+CPC é a regra do jogo.
+
+108
+00:07:17,760 --> 00:07:21,462
+O ICPC é o árbitro esclarecendo
+uma regra polêmica.
+
+109
+00:07:21,462 --> 00:07:24,514
+O OCPC é o manual de dicas de como jogar.
+
+110
+00:07:24,867 --> 00:07:29,530
+Como identificar: criou regra de
+reconhecimento, mensuração ou divulgação?
+
+111
+00:07:29,530 --> 00:07:35,517
+CPC. Esclareceu dúvida de um CPC? ICPC. Só
+orienta a aplicação, sem norma nova?
+
+112
+00:07:35,517 --> 00:07:41,945
+OCPC. E repare: a OCPC 09, do Relato Integrado,
+que vem a seguir, é uma orientação.
+
+113
+00:07:42,333 --> 00:07:46,107
+Para fechar a unidade: quem emite as
+normas internacionais.
+
+114
+00:07:46,107 --> 00:07:49,945
+O IASB emite as normas contábeis, as IFRS.
+
+115
+00:07:49,945 --> 00:07:56,021
+Ele está sob a Fundação IFRS, que é
+supervisionada por um Conselho de Monitoramento.
+
+116
+00:07:56,367 --> 00:08:00,190
+O ISSB emite as normas de sustentabilidade:
+
+117
+00:08:00,190 --> 00:08:07,043
+a IFRS S1, sobre requisitos gerais, e
+a IFRS S2, sobre clima.
+
+118
+00:08:07,043 --> 00:08:09,567
+As duas são voltadas ao investidor.
+
+119
+00:08:09,933 --> 00:08:13,092
+ESG significa ambiental, social e governança.
+
+120
+00:08:13,092 --> 00:08:18,232
+É a preocupação de divulgar riscos e impactos
+que vão além dos números financeiros.
+
+121
+00:08:18,232 --> 00:08:23,807
+Por que existe: o investidor quer conhecer riscos
+que o balanço sozinho não mostra, como o
+
+122
+00:08:23,807 --> 00:08:27,151
+risco climático, que é justamente o tema da S2.
+
+123
+00:08:27,500 --> 00:08:30,774
+E o Relato Integrado, tratado na OCPC 09:
+
+124
+00:08:30,774 --> 00:08:35,199
+é um relatório que mostra como a empresa
+cria valor usando seis capitais.
+
+125
+00:08:35,199 --> 00:08:40,352
+Financeiro, manufaturado, intelectual, humano,
+social e de relacionamento, e natural.
+
+126
+00:08:40,700 --> 00:08:46,150
+Um jeito de lembrar: dinheiro, máquinas,
+conhecimento, pessoas, relações e natureza.
+
+127
+00:08:46,150 --> 00:08:52,313
+Na prova: IASB, normas contábeis. ISSB,
+sustentabilidade, S1 e S2.
+
+128
+00:08:52,313 --> 00:08:55,816
+Relato Integrado, seis capitais, OCPC 09.
+
+129
+00:08:56,763 --> 00:09:00,672
+Unidade 2: tributos sobre o lucro, o CPC 32.
+
+130
+00:09:00,672 --> 00:09:03,340
+Aqui começa o cálculo, então vamos devagar.
+
+131
+00:09:03,340 --> 00:09:09,731
+Primeiro, os nomes dos impostos. IR é o imposto de
+renda, e CSLL é a contribuição social
+
+132
+00:09:09,731 --> 00:09:15,129
+sobre o lucro líquido. Os dois incidem sobre o
+lucro, e nas nossas questões de treino a
+
+133
+00:09:15,129 --> 00:09:17,859
+alíquota somada é 34%.
+
+134
+00:09:18,197 --> 00:09:21,650
+Mais duas siglas. LAIR é o lucro
+antes do imposto de renda:
+
+135
+00:09:21,650 --> 00:09:24,870
+o lucro da contabilidade, antes de
+descontar o imposto.
+
+136
+00:09:24,870 --> 00:09:28,090
+E lucro real é o lucro calculado
+pelas regras do Fisco.
+
+137
+00:09:28,090 --> 00:09:30,724
+É sobre ele que se calcula o imposto a pagar.
+
+138
+00:09:31,063 --> 00:09:37,749
+Por que tudo isso existe? Lembra da Lei 11.638, que
+separou o Fisco dos demais usuários?
+
+139
+00:09:37,749 --> 00:09:41,463
+A contabilidade segue o CPC, e o
+imposto segue a lei fiscal.
+
+140
+00:09:41,463 --> 00:09:45,064
+Às vezes as duas reconhecem a mesma
+despesa em anos diferentes.
+
+141
+00:09:45,064 --> 00:09:48,378
+Outras vezes, o Fisco simplesmente
+não aceita uma despesa.
+
+142
+00:09:48,378 --> 00:09:53,749
+O CPC 32 mostra como contabilizar o imposto
+levando essas diferenças em conta.
+
+143
+00:09:54,097 --> 00:10:00,435
+Tributo corrente: o IR e a CSLL que a empresa
+realmente paga, ou recupera, sobre o lucro
+
+144
+00:10:00,435 --> 00:10:02,711
+fiscal do período. É a conta de hoje.
+
+145
+00:10:03,063 --> 00:10:09,648
+Tributo diferido: o IR e a CSLL que serão pagos ou
+recuperados em anos futuros, por causa
+
+146
+00:10:09,648 --> 00:10:12,560
+de diferenças entre a contabilidade e o Fisco.
+
+147
+00:10:12,560 --> 00:10:14,522
+É a conta que fica para depois.
+
+148
+00:10:14,863 --> 00:10:18,782
+Base fiscal: o valor que o Fisco
+reconhece para um ativo ou passivo.
+
+149
+00:10:18,782 --> 00:10:23,853
+Exemplo: se o Fisco já deixou deduzir uma máquina
+inteira, para ele a máquina vale zero.
+
+150
+00:10:23,853 --> 00:10:28,925
+Essa é a base fiscal. Já a contabilidade pode
+continuar mostrando a máquina por um valor
+
+151
+00:10:28,925 --> 00:10:30,711
+maior: esse é o valor contábil.
+
+152
+00:10:31,063 --> 00:10:33,444
+Agora a distinção mais importante da unidade.
+
+153
+00:10:33,444 --> 00:10:38,154
+Diferença permanente: despesa que o Fisco nunca
+aceita, ou receita que ele nunca tributa.
+
+154
+00:10:38,154 --> 00:10:42,704
+Os exemplos do material são multas e equivalência
+patrimonial, que é o resultado que a
+
+155
+00:10:42,704 --> 00:10:45,932
+empresa reconhece pela participação
+que tem em outra empresa.
+
+156
+00:10:45,932 --> 00:10:49,477
+Diferença permanente não gera diferido,
+porque nunca vai se anular.
+
+157
+00:10:49,830 --> 00:10:54,755
+Diferença temporária: contabilidade e Fisco
+reconhecem o mesmo valor, mas em anos
+
+158
+00:10:54,755 --> 00:10:57,308
+diferentes. Em algum momento ela se anula.
+
+159
+00:10:57,308 --> 00:10:58,828
+E por isso gera diferido.
+
+160
+00:10:59,163 --> 00:11:02,510
+Como identificar: pergunte "um dia o
+Fisco vai aceitar isso?".
+
+161
+00:11:02,510 --> 00:11:05,633
+Se a resposta é "nunca", é
+permanente, e não tem diferido.
+
+162
+00:11:05,633 --> 00:11:08,811
+Se é "sim, mas em outro ano", é
+temporária, e tem diferido.
+
+163
+00:11:09,163 --> 00:11:12,861
+Agora, quando nasce um ativo e quando
+nasce um passivo diferido.
+
+164
+00:11:12,861 --> 00:11:17,772
+A lógica é esta. Se o Fisco deixou eu deduzir
+antes da contabilidade, hoje pago menos
+
+165
+00:11:17,772 --> 00:11:21,470
+imposto, mas no futuro vou pagar mais.
+Isso é uma dívida futura:
+
+166
+00:11:21,470 --> 00:11:26,381
+passivo fiscal diferido. Pense nele como uma
+dívida com o Fisco que fica para depois.
+
+167
+00:11:26,730 --> 00:11:31,792
+Se o Fisco só vai deixar eu deduzir depois, hoje
+pago mais imposto, mas no futuro recupero.
+
+168
+00:11:31,792 --> 00:11:34,462
+Isso é um crédito futuro: ativo fiscal diferido.
+
+169
+00:11:34,462 --> 00:11:37,910
+Pense nele como um crédito que vou
+receber do Fisco no futuro.
+
+170
+00:11:38,263 --> 00:11:40,941
+O material traz um quadro com cinco situações.
+
+171
+00:11:40,941 --> 00:11:46,064
+Duas palavras novas. Diferença temporária
+tributável é a que vai gerar imposto a mais no
+
+172
+00:11:46,064 --> 00:11:50,895
+futuro. Diferença temporária dedutível é a que
+vai gerar imposto a menos no futuro.
+
+173
+00:11:51,230 --> 00:11:55,069
+Primeira linha: ativo com valor
+contábil maior que a base fiscal.
+
+174
+00:11:55,069 --> 00:11:58,495
+A diferença é tributável, e nasce
+passivo fiscal diferido.
+
+175
+00:11:58,495 --> 00:12:03,811
+É o caso da depreciação acelerada: o Fisco já
+deduziu a máquina, então a base fiscal ficou
+
+176
+00:12:03,811 --> 00:12:05,406
+menor que o valor contábil.
+
+177
+00:12:05,763 --> 00:12:09,218
+Segunda: ativo com valor contábil
+menor que a base fiscal.
+
+178
+00:12:09,218 --> 00:12:12,137
+Diferença dedutível, nasce
+ativo fiscal diferido.
+
+179
+00:12:12,497 --> 00:12:16,187
+Terceira: passivo com valor contábil
+maior que a base fiscal.
+
+180
+00:12:16,187 --> 00:12:18,546
+Dedutível, nasce ativo fiscal diferido.
+
+181
+00:12:18,897 --> 00:12:22,356
+Quarta: passivo com valor contábil
+menor que a base fiscal.
+
+182
+00:12:22,356 --> 00:12:24,818
+Tributável, nasce passivo fiscal diferido.
+
+183
+00:12:25,163 --> 00:12:30,327
+Quinta: prejuízo fiscal a compensar. Prejuízo
+fiscal é quando o lucro real dá negativo.
+
+184
+00:12:30,327 --> 00:12:35,193
+Ele é dedutível e gera ativo fiscal diferido,
+porque vai reduzir o imposto de anos
+
+185
+00:12:35,193 --> 00:12:35,787
+seguintes.
+
+186
+00:12:36,130 --> 00:12:38,475
+Um atalho para as quatro primeiras linhas:
+
+187
+00:12:38,475 --> 00:12:40,819
+ativo e passivo se comportam ao contrário.
+
+188
+00:12:40,819 --> 00:12:44,280
+E os exemplos do material: depreciação
+acelerada gera passivo.
+
+189
+00:12:44,280 --> 00:12:49,528
+PECLD e provisões geram ativo. Trocar esse sinal
+é um dos erros que mais custam nota.
+
+190
+00:12:49,930 --> 00:12:53,297
+Agora, as quatro regras do CPC 32.
+
+191
+00:12:53,663 --> 00:12:58,527
+Primeira: o ativo diferido só é reconhecido se for
+provável haver lucro tributável futuro
+
+192
+00:12:58,527 --> 00:13:03,336
+para usá-lo. Faz sentido: um crédito para abater
+imposto futuro só vale se a empresa vai
+
+193
+00:13:03,336 --> 00:13:05,030
+ter imposto futuro para abater.
+
+194
+00:13:05,363 --> 00:13:11,718
+Segunda: usa-se a alíquota vigente ou já aprovada;
+nas questões de treino, 34% de IR mais
+
+195
+00:13:11,718 --> 00:13:15,144
+CSLL. E não há ajuste a valor
+presente no diferido:
+
+196
+00:13:15,144 --> 00:13:18,459
+não se desconta o valor pelo tempo
+que falta até a reversão.
+
+197
+00:13:18,797 --> 00:13:24,087
+Terceira: se o item foi registrado em ORA ou no
+patrimônio líquido, o diferido também vai
+
+198
+00:13:24,087 --> 00:13:28,759
+para lá, e não para o resultado. ORA quer
+dizer outros resultados abrangentes:
+
+199
+00:13:28,759 --> 00:13:34,162
+uma parte do patrimônio líquido onde ficam certos
+ganhos e perdas que não passam pela DRE,
+
+200
+00:13:34,162 --> 00:13:39,172
+a demonstração do resultado. O exemplo do material
+são os ganhos atuariais, que vamos ver
+
+201
+00:13:39,172 --> 00:13:40,635
+no CPC 33.
+
+202
+00:13:40,997 --> 00:13:44,284
+Quarta: há exceções em que não se
+reconhece passivo diferido.
+
+203
+00:13:44,284 --> 00:13:49,079
+O reconhecimento inicial de goodwill, que é o valor
+pago a mais na compra de uma empresa, e
+
+204
+00:13:49,079 --> 00:13:52,635
+de certos ativos e passivos que não
+afetam nenhum lucro na origem.
+
+205
+00:13:52,635 --> 00:13:55,707
+O material só lista essas exceções,
+sem exemplo numérico.
+
+206
+00:13:56,063 --> 00:14:01,014
+E agora o roteiro de cálculo: o modelo do
+professor, chamado método do resultado.
+
+207
+00:14:01,014 --> 00:14:04,620
+São oito passos. Um: monte a DRE
+contábil até o LAIR.
+
+208
+00:14:04,963 --> 00:14:09,433
+Dois: some as adições. São despesas
+contábeis que o Fisco não aceita agora.
+
+209
+00:14:09,797 --> 00:14:14,801
+Três: subtraia as exclusões. São deduções que o
+Fisco permite e a contabilidade não
+
+210
+00:14:14,801 --> 00:14:15,404
+registrou.
+
+211
+00:14:15,763 --> 00:14:21,094
+Quatro: subtraia a compensação de prejuízo fiscal,
+que é limitada a 30% do lucro real.
+
+212
+00:14:21,094 --> 00:14:23,786
+Essa trava de 30% é um erro clássico.
+
+213
+00:14:24,130 --> 00:14:30,620
+Cinco: o resultado é o lucro real. Multiplique
+por 34% e você tem o IR corrente.
+
+214
+00:14:30,963 --> 00:14:34,143
+Seis: para cada ajuste temporário,
+calcule o diferido:
+
+215
+00:14:34,143 --> 00:14:36,734
+a diferença vezes 34%.
+
+216
+00:14:37,097 --> 00:14:41,764
+Sete: lance no resultado a variação do saldo
+de diferido no ano, e não o saldo.
+
+217
+00:14:42,130 --> 00:14:47,486
+Oito: a prova dos nove. Sem diferenças permanentes,
+o IR total, corrente mais diferido, é
+
+218
+00:14:47,486 --> 00:14:52,151
+igual a 34% do LAIR. Se não bater,
+tem erro em algum lugar.
+
+219
+00:14:52,151 --> 00:14:55,261
+Vamos usar essa prova em todas as
+questões de imposto.
+
+220
+00:14:56,262 --> 00:15:00,812
+Hora de fazer conta. Começamos com o exemplo do
+trator, que é do slide do próprio
+
+221
+00:15:00,812 --> 00:15:06,485
+professor. Atenção: ele usa alíquota de 30%, que é
+a que o professor passou nesse slide.
+
+222
+00:15:06,485 --> 00:15:12,888
+Esse exemplo é a exceção. Todas as questões de
+treino depois dele, da A1 à C2, usam 34%.
+
+223
+00:15:13,229 --> 00:15:17,409
+O enunciado: um trator de R$ 600.000,
+com vida útil de 3 anos.
+
+224
+00:15:17,409 --> 00:15:22,202
+O Fisco permite deduzir tudo no ano 1. A
+contabilidade deprecia 200.000 por ano.
+
+225
+00:15:22,202 --> 00:15:26,940
+O lucro contábil é de R$ 1.000.000 por
+ano, e a alíquota é de 30%.
+
+226
+00:15:26,940 --> 00:15:31,677
+Depreciação, lembrando, é a despesa que reparte o
+custo da máquina pelos anos de uso.
+
+227
+00:15:32,029 --> 00:15:34,878
+Vamos montar a tabela linha por
+linha. Primeira linha:
+
+228
+00:15:34,878 --> 00:15:38,202
+lucro contábil. 1.000.000 no ano 1,
+no ano 2 e no ano 3.
+
+229
+00:15:38,202 --> 00:15:39,680
+Ele vem pronto do enunciado.
+
+230
+00:15:40,029 --> 00:15:43,162
+Segunda linha: somamos de volta a
+depreciação contábil.
+
+231
+00:15:43,162 --> 00:15:46,693
+600.000 dividido por 3 anos dá 200.000 por ano.
+
+232
+00:15:46,693 --> 00:15:52,219
+Ano 1, ano 2, ano 3. Por que somar? Porque o Fisco
+não usa a depreciação da contabilidade.
+
+233
+00:15:52,219 --> 00:15:53,415
+Ele tem a regra dele.
+
+234
+00:15:53,762 --> 00:15:56,575
+Terceira linha: subtraímos a depreciação fiscal.
+
+235
+00:15:56,575 --> 00:16:00,911
+No ano 1, os 600.000 inteiros, porque o
+Fisco deixou deduzir tudo.
+
+236
+00:16:00,911 --> 00:16:05,012
+No ano 2, zero. No ano 3, zero. Já não
+sobrou nada para deduzir.
+
+237
+00:16:05,362 --> 00:16:09,954
+Lucro real do ano 1: 1.000.000, mais
+200.000, menos 600.000.
+
+238
+00:16:09,954 --> 00:16:11,086
+Dá 600.000.
+
+239
+00:16:11,429 --> 00:16:14,284
+Ano 2: 1.000.000 mais 200.000, menos zero:
+
+240
+00:16:14,284 --> 00:16:18,453
+1.200.000. E o ano 3 é igual: 1.200.000.
+
+241
+00:16:18,795 --> 00:16:25,056
+IR corrente: 30% do lucro real. Ano 1:
+30% de 600.000, 180.000.
+
+242
+00:16:25,056 --> 00:16:31,926
+Ano 2: 30% de 1.200.000, 360.000.
+Ano 3: também 360.000.
+
+243
+00:16:32,262 --> 00:16:37,012
+Agora o diferido. No fim do ano 1, o trator
+vale 400.000 na contabilidade:
+
+244
+00:16:37,012 --> 00:16:42,837
+600.000 menos 200.000 de depreciação. Para o Fisco,
+vale zero, porque já foi todo deduzido.
+
+245
+00:16:42,837 --> 00:16:48,718
+A diferença é de 400.000, e 30% disso dá um
+passivo diferido de 120.000.
+
+246
+00:16:48,718 --> 00:16:52,394
+É imposto que a empresa deixou de pagar
+agora e vai pagar depois.
+
+247
+00:16:52,729 --> 00:16:57,525
+No fim do ano 2, o trator vale 200.000 na
+contabilidade e zero para o Fisco.
+
+248
+00:16:57,525 --> 00:17:03,235
+30% de 200.000: saldo de 60.000. No fim do
+ano 3, vale zero para os dois.
+
+249
+00:17:03,235 --> 00:17:03,863
+Saldo zero.
+
+250
+00:17:04,229 --> 00:17:08,695
+Agora, o passo sete: no resultado entra a
+variação do saldo, e não o saldo.
+
+251
+00:17:08,695 --> 00:17:14,353
+Ano 1: o saldo foi de zero para 120.000.
+Variação de 120.000, uma despesa.
+
+252
+00:17:14,695 --> 00:17:18,365
+Ano 2: o saldo caiu de 120.000 para 60.000.
+
+253
+00:17:18,365 --> 00:17:22,508
+Variação de 60.000, uma receita, que
+reduz a despesa de imposto.
+
+254
+00:17:22,508 --> 00:17:26,770
+Ano 3: caiu de 60.000 para zero.
+Outra receita de 60.000.
+
+255
+00:17:27,129 --> 00:17:33,536
+IR total. Ano 1: 180.000 de corrente, mais
+120.000 de diferido, 300.000.
+
+256
+00:17:33,536 --> 00:17:38,357
+Ano 2: 360.000 menos 60.000, 300.000. Ano 3:
+
+257
+00:17:38,357 --> 00:17:39,760
+o mesmo, 300.000.
+
+258
+00:17:40,095 --> 00:17:46,051
+Prova dos nove: 30% vezes 1.000.000 de lucro
+contábil, igual a 300.000, em todos os anos.
+
+259
+00:17:46,051 --> 00:17:51,070
+Bateu. É isso que o diferido faz: deixa a despesa de
+imposto alinhada com o lucro contábil,
+
+260
+00:17:51,070 --> 00:17:53,993
+mesmo que o imposto pago oscile
+de um ano para outro.
+
+261
+00:17:54,329 --> 00:17:59,548
+Agora a questão A1. Lembrando: esta e as próximas
+questões foram elaboradas para treino, no
+
+262
+00:17:59,548 --> 00:18:03,123
+estilo das listas do professor. Não
+são questões oficiais dele.
+
+263
+00:18:03,123 --> 00:18:06,357
+E a partir daqui, a alíquota é 34%.
+
+264
+00:18:06,695 --> 00:18:12,853
+Enunciado: uma empresa compra uma máquina por R$
+90.000, com vida útil de 3 anos, sem valor
+
+265
+00:18:12,853 --> 00:18:17,743
+residual. Contabilmente, deprecia em linha
+reta, ou seja, o mesmo valor todo ano.
+
+266
+00:18:17,743 --> 00:18:21,185
+O Fisco permite depreciar 100% no ano da compra.
+
+267
+00:18:21,185 --> 00:18:24,566
+O lucro antes da depreciação é de
+R$ 100.000 por ano.
+
+268
+00:18:24,566 --> 00:18:29,335
+Faça a DRE e a apuração fiscal dos 3
+anos, e os lançamentos do ano 1.
+
+269
+00:18:29,695 --> 00:18:34,277
+Antes de calcular, identifique. O Fisco deixa
+deduzir antes da contabilidade.
+
+270
+00:18:34,277 --> 00:18:37,669
+Pela lógica que vimos: hoje pago
+menos, depois pago mais.
+
+271
+00:18:37,669 --> 00:18:41,596
+Então vai nascer passivo diferido. É o
+mesmo raciocínio do trator.
+
+272
+00:18:41,962 --> 00:18:45,799
+Linha 1: lucro antes da depreciação.
+100.000, 100.000 e 100.000.
+
+273
+00:18:45,799 --> 00:18:46,862
+Dado do enunciado.
+
+274
+00:18:47,195 --> 00:18:52,294
+Linha 2: depreciação contábil. 90.000
+dividido por 3 dá 30.000 por ano.
+
+275
+00:18:52,294 --> 00:18:53,894
+Ano 1, ano 2, ano 3.
+
+276
+00:18:54,229 --> 00:19:00,275
+Linha 3: o LAIR. 100.000 menos 30.000: 70.000
+no ano 1, no ano 2 e no ano 3.
+
+277
+00:19:00,275 --> 00:19:04,922
+A DRE contábil vai até aqui. Daqui para
+baixo, é a apuração fiscal.
+
+278
+00:19:05,262 --> 00:19:09,241
+Adição: a depreciação contábil de
+30.000 volta, nos três anos.
+
+279
+00:19:09,241 --> 00:19:11,833
+É uma despesa contábil que o Fisco não usa.
+
+280
+00:19:12,195 --> 00:19:17,867
+Exclusão: a depreciação fiscal. No ano 1,
+90.000, que são os 100% permitidos.
+
+281
+00:19:17,867 --> 00:19:20,148
+No ano 2, zero. No ano 3, zero.
+
+282
+00:19:20,495 --> 00:19:25,631
+Lucro real. Ano 1: 70.000 mais 30.000
+menos 90.000, igual a 10.000.
+
+283
+00:19:25,631 --> 00:19:29,157
+Ano 2: 70.000 mais 30.000, 100.000. Ano 3:
+
+284
+00:19:29,157 --> 00:19:30,085
+também 100.000.
+
+285
+00:19:30,429 --> 00:19:38,075
+IR corrente: 34% do lucro real. Ano
+1: 34% de 10.000, 3.400.
+
+286
+00:19:38,075 --> 00:19:43,989
+Ano 2: 34% de 100.000, 34.000. Ano 3: 34.000.
+
+287
+00:19:44,329 --> 00:19:48,010
+Agora o diferido. Valor contábil da
+máquina no fim de cada ano.
+
+288
+00:19:48,010 --> 00:19:51,575
+Ano 1: 90.000 menos 30.000, 60.000. Ano 2:
+
+289
+00:19:51,575 --> 00:19:56,659
+60.000 menos 30.000, 30.000. Ano 3:
+30.000 menos 30.000, zero.
+
+290
+00:19:56,995 --> 00:20:01,477
+Base fiscal: zero, zero e zero. O Fisco
+já deduziu tudo no ano 1.
+
+291
+00:20:01,829 --> 00:20:07,554
+Passivo fiscal diferido: 34% da diferença
+entre valor contábil e base fiscal.
+
+292
+00:20:07,554 --> 00:20:16,054
+Ano 1: 34% de 60.000, 20.400. Ano 2:
+34% de 30.000, 10.200.
+
+293
+00:20:16,054 --> 00:20:16,922
+Ano 3: zero.
+
+294
+00:20:17,262 --> 00:20:20,327
+IR diferido no resultado: é a variação do saldo.
+
+295
+00:20:20,327 --> 00:20:25,219
+Ano 1: de zero para 20.400, despesa de 20.400.
+
+296
+00:20:25,219 --> 00:20:30,700
+Ano 2: de 20.400 para 10.200, receita de 10.200.
+
+297
+00:20:30,700 --> 00:20:35,002
+Ano 3: de 10.200 para zero, receita de 10.200.
+
+298
+00:20:35,362 --> 00:20:42,118
+IR total. Ano 1: 3.400 mais 20.400, 23.800.
+
+299
+00:20:42,118 --> 00:20:48,179
+Ano 2: 34.000 menos 10.200, 23.800. Ano 3:
+
+300
+00:20:48,179 --> 00:20:50,641
+o mesmo, 23.800.
+
+301
+00:20:50,995 --> 00:20:57,253
+Lucro líquido: o LAIR de 70.000
+menos 23.800 dá 46.200.
+
+302
+00:20:57,253 --> 00:20:58,890
+Ano 1, ano 2 e ano 3.
+
+303
+00:20:59,229 --> 00:21:05,826
+Prova dos nove. Não há diferenças permanentes,
+então 34% vezes os 70.000 de LAIR tem que
+
+304
+00:21:05,826 --> 00:21:08,981
+dar 23.800. E dá, nos três anos.
+
+305
+00:21:09,329 --> 00:21:12,747
+Por que passivo? O Fisco deixou
+deduzir tudo no ano 1.
+
+306
+00:21:12,747 --> 00:21:15,792
+A empresa paga menos imposto
+agora e mais depois.
+
+307
+00:21:15,792 --> 00:21:17,781
+Dívida futura: passivo diferido.
+
+308
+00:21:18,129 --> 00:21:21,291
+Lançamentos do ano 1. D é débito, e C é crédito.
+
+309
+00:21:21,291 --> 00:21:27,938
+Primeiro, o corrente: débito em despesa
+com IR e CSLL corrente, 3.400.
+
+310
+00:21:27,938 --> 00:21:35,747
+Crédito em IR e CSLL a recolher, 3.400. A recolher
+é o imposto que ainda vai ser pago ao
+
+311
+00:21:35,747 --> 00:21:36,264
+governo.
+
+312
+00:21:36,629 --> 00:21:42,988
+Segundo, o diferido: débito em despesa com
+IR e CSLL diferido, 20.400.
+
+313
+00:21:42,988 --> 00:21:50,581
+Crédito em IR e CSLL diferido a recolher, 20.400, no
+passivo não circulante, que é a parte
+
+314
+00:21:50,581 --> 00:21:52,186
+de longo prazo do passivo.
+
+315
+00:21:52,529 --> 00:21:57,103
+Questão A2. Aqui aparecem juntos um ativo
+diferido e uma diferença permanente.
+
+316
+00:21:57,103 --> 00:22:01,791
+No ano 1, uma empresa vendeu a prazo e
+constituiu PECLD de R$ 10.000.
+
+317
+00:22:01,791 --> 00:22:05,970
+PECLD são as perdas estimadas em
+créditos de liquidação duvidosa:
+
+318
+00:22:05,970 --> 00:22:08,398
+a estimativa de clientes que não vão pagar.
+
+319
+00:22:08,398 --> 00:22:11,674
+O Fisco só aceita essa dedução
+quando a perda for efetiva.
+
+320
+00:22:12,029 --> 00:22:18,062
+A empresa também pagou multa de R$ 5.000,
+indedutível, ou seja, o Fisco não aceita deduzir.
+
+321
+00:22:18,062 --> 00:22:22,249
+No ano 2, a perda de 10.000 se confirma
+e passa a ser dedutível.
+
+322
+00:22:22,249 --> 00:22:26,066
+O lucro antes dessas operações é de
+R$ 100.000 em cada ano.
+
+323
+00:22:26,066 --> 00:22:28,898
+Calcule DRE, IR corrente e diferido.
+
+324
+00:22:29,262 --> 00:22:33,781
+Identifique cada item. A PECLD: o
+Fisco aceita, mas só depois.
+
+325
+00:22:33,781 --> 00:22:38,619
+É temporária, e como pago mais agora e
+recupero depois, gera ativo diferido.
+
+326
+00:22:38,619 --> 00:22:41,420
+A multa: o Fisco nunca aceita. É permanente.
+
+327
+00:22:41,420 --> 00:22:43,902
+Entra na adição, mas não gera diferido.
+
+328
+00:22:44,262 --> 00:22:48,372
+Lucro antes das operações: 100.000 no
+ano 1 e 100.000 no ano 2.
+
+329
+00:22:48,729 --> 00:22:52,515
+Menos a PECLD: 10.000 no ano 1. No ano 2, zero.
+
+330
+00:22:52,515 --> 00:22:57,169
+A despesa já foi registrada no ano 1; no
+ano 2, a perda só se confirma.
+
+331
+00:22:57,529 --> 00:23:01,081
+Menos a multa: 5.000 no ano 1. Zero no ano 2.
+
+332
+00:23:01,429 --> 00:23:06,777
+LAIR. Ano 1: 100.000 menos 10.000
+menos 5.000, igual a 85.000.
+
+333
+00:23:06,777 --> 00:23:07,965
+Ano 2: 100.000.
+
+334
+00:23:09,029 --> 00:23:12,889
+Apuração fiscal. Adição da
+PECLD, que é temporária:
+
+335
+00:23:12,889 --> 00:23:15,205
+10.000 no ano 1. Zero no ano 2.
+
+336
+00:23:15,562 --> 00:23:18,830
+Adição da multa, que é
+permanente: 5.000 no ano 1.
+
+337
+00:23:18,830 --> 00:23:21,861
+Zero no ano 2. Repare: as duas entram na adição.
+
+338
+00:23:21,861 --> 00:23:24,595
+A diferença entre elas só aparece no diferido.
+
+339
+00:23:24,929 --> 00:23:27,462
+Exclusão da perda efetiva: zero no ano 1.
+
+340
+00:23:27,462 --> 00:23:31,442
+No ano 2, 10.000, quando a perda se
+confirma e o Fisco aceita.
+
+341
+00:23:31,795 --> 00:23:36,668
+Lucro real. Ano 1: 85.000 mais
+10.000 mais 5.000, 100.000.
+
+342
+00:23:36,668 --> 00:23:39,516
+Ano 2: 100.000 menos 10.000, 90.000.
+
+343
+00:23:39,862 --> 00:23:46,612
+IR corrente, 34%. Ano 1: 34% de 100.000, 34.000.
+
+344
+00:23:46,612 --> 00:23:51,275
+Ano 2: 34% de 90.000, 30.600.
+
+345
+00:23:51,629 --> 00:23:57,496
+Ativo fiscal diferido: 34% só da PECLD,
+que é a diferença temporária.
+
+346
+00:23:57,496 --> 00:24:03,716
+Ano 1: 34% de 10.000, 3.400. No ano
+2, a diferença se anulou:
+
+347
+00:24:03,716 --> 00:24:05,770
+saldo zero. A multa não entra aqui.
+
+348
+00:24:06,129 --> 00:24:14,026
+No resultado, a variação. Ano 1: o saldo foi de zero
+para 3.400, uma receita de 3.400, que
+
+349
+00:24:14,026 --> 00:24:19,062
+reduz a despesa. Ano 2: voltou a
+zero, uma despesa de 3.400.
+
+350
+00:24:19,429 --> 00:24:25,396
+IR total. Ano 1: 34.000 menos 3.400, 30.600.
+
+351
+00:24:25,396 --> 00:24:30,563
+Ano 2: 30.600 mais 3.400, 34.000.
+
+352
+00:24:30,929 --> 00:24:37,834
+Lucro líquido. Ano 1: 85.000
+menos 30.600, 54.400.
+
+353
+00:24:37,834 --> 00:24:41,842
+Ano 2: 100.000 menos 34.000, 66.000.
+
+354
+00:24:42,195 --> 00:24:46,329
+Prova dos nove. Aqui existe uma diferença
+permanente, então ajustamos.
+
+355
+00:24:46,329 --> 00:24:52,115
+Ano 1: 34% vezes 85.000 mais os
+5.000 da multa permanente.
+
+356
+00:24:52,115 --> 00:24:57,312
+Ou seja, 34% de 90.000, que é 30.600. Bateu.
+
+357
+00:24:57,662 --> 00:25:02,596
+Ano 2, sem permanentes: 34% de 100.000, 34.000.
+
+358
+00:25:02,596 --> 00:25:03,351
+Bateu também.
+
+359
+00:25:03,695 --> 00:25:08,154
+Por que ativo? A PECLD é despesa
+agora e dedução só depois.
+
+360
+00:25:08,154 --> 00:25:12,087
+O imposto pago hoje é maior, e vai
+ser recuperado no futuro.
+
+361
+00:25:12,087 --> 00:25:13,726
+É um crédito com o Fisco.
+
+362
+00:25:14,062 --> 00:25:20,114
+O arquivo não traz os lançamentos da A2. Seguindo o
+mesmo modelo da A1, no ano 1 eles ficam
+
+363
+00:25:20,114 --> 00:25:26,041
+assim. Corrente: débito em despesa com
+IR e CSLL corrente, 34.000.
+
+364
+00:25:26,041 --> 00:25:30,328
+Crédito em IR e CSLL a recolher, 34.000.
+
+365
+00:25:30,662 --> 00:25:35,069
+Diferido: débito em ativo
+fiscal diferido, 3.400.
+
+366
+00:25:35,069 --> 00:25:40,594
+Crédito em IR e CSLL diferido,
+no resultado, 3.400.
+
+367
+00:25:40,594 --> 00:25:44,803
+Esse crédito funciona como receita e
+reduz a despesa de imposto.
+
+368
+00:25:45,761 --> 00:25:50,409
+Unidade 3, primeira parte: pagamento
+baseado em ações, o CPC 10.
+
+369
+00:25:50,409 --> 00:25:51,810
+Vou chamar de PBA.
+
+370
+00:25:52,394 --> 00:25:57,648
+O que é: a empresa paga empregados, ou fornecedores,
+com ações, com opções de ações, ou com
+
+371
+00:25:57,648 --> 00:26:02,093
+dinheiro atrelado ao preço das ações. Ação é
+um pedaço do capital da empresa.
+
+372
+00:26:02,093 --> 00:26:07,058
+Opção de ação é um direito ligado a essas ações,
+que a empresa concede como pagamento.
+
+373
+00:26:07,394 --> 00:26:11,809
+Por que isso entra na contabilidade: o serviço do
+empregado é uma despesa, mesmo que a
+
+374
+00:26:11,809 --> 00:26:16,018
+empresa não pague em dinheiro. E essa despesa é
+reconhecida ao longo do período de
+
+375
+00:26:16,018 --> 00:26:16,532
+aquisição.
+
+376
+00:26:16,894 --> 00:26:20,819
+Os termos-chave. Data da outorga: quando
+a empresa promete as ações.
+
+377
+00:26:21,161 --> 00:26:25,378
+Período de aquisição, em inglês vesting: o
+tempo até o empregado ter direito.
+
+378
+00:26:25,378 --> 00:26:27,349
+É o tempo que ele precisa trabalhar.
+
+379
+00:26:27,694 --> 00:26:30,529
+Condição de serviço: ficar na
+empresa por um prazo.
+
+380
+00:26:30,529 --> 00:26:33,253
+Se sair, perde. Ela ajusta a
+quantidade esperada:
+
+381
+00:26:33,253 --> 00:26:38,422
+se a empresa espera que 10% saiam, espera
+entregar só 90% das opções.
+
+382
+00:26:38,761 --> 00:26:43,661
+Condição de desempenho: atingir uma meta, por
+exemplo de ROI, o retorno sobre o
+
+383
+00:26:43,661 --> 00:26:46,052
+investimento. Também ajusta a quantidade.
+
+384
+00:26:46,394 --> 00:26:50,005
+Valor justo: quanto vale cada
+opção. É a base da despesa.
+
+385
+00:26:50,361 --> 00:26:55,204
+Uma analogia: é como um bônus prometido hoje, que
+só vira seu se você ficar três anos.
+
+386
+00:26:55,204 --> 00:26:58,527
+A empresa não espera o terceiro ano
+para registrar o custo.
+
+387
+00:26:58,527 --> 00:27:02,807
+Ela reconhece um pedaço por ano, porque você
+está trabalhando nos três anos.
+
+388
+00:27:03,161 --> 00:27:07,472
+Como identificar o tipo de plano: a
+pergunta-chave é "como a empresa vai pagar?".
+
+389
+00:27:07,472 --> 00:27:11,727
+Se paga entregando ações, é liquidado em
+ações, também chamado de instrumentos
+
+390
+00:27:11,727 --> 00:27:16,420
+patrimoniais. Se paga em dinheiro, calculado pelo
+preço da ação, é liquidado em caixa.
+
+391
+00:27:16,761 --> 00:27:21,538
+Veja o quadro. Contrapartida da despesa. Em ações,
+vai para o patrimônio líquido, numa
+
+392
+00:27:21,538 --> 00:27:24,760
+reserva de capital, que é uma conta
+do patrimônio líquido.
+
+393
+00:27:24,760 --> 00:27:28,371
+Em caixa, vai para o passivo, porque a
+empresa vai ter que pagar.
+
+394
+00:27:28,728 --> 00:27:32,572
+Valor justo usado. Em ações, o da
+data da outorga, congelado.
+
+395
+00:27:32,572 --> 00:27:37,424
+Em caixa, é remensurado a cada balanço, ou
+seja, recalculado todo fim de ano.
+
+396
+00:27:37,761 --> 00:27:40,799
+Muda quando o preço da ação muda? Em ações, não.
+
+397
+00:27:40,799 --> 00:27:41,685
+Em caixa, sim.
+
+398
+00:27:42,028 --> 00:27:46,069
+O que se revisa ao longo do tempo. Em
+ações, só a quantidade esperada.
+
+399
+00:27:46,069 --> 00:27:48,320
+Em caixa, a quantidade e o valor justo.
+
+400
+00:27:48,661 --> 00:27:52,199
+E este é o ponto que, segundo o
+material, mais cai em prova:
+
+401
+00:27:52,199 --> 00:27:57,270
+se o plano é liquidado em ações, os valores justos
+dos anos seguintes são distratores.
+
+402
+00:27:57,270 --> 00:27:59,923
+Eles aparecem no enunciado só para confundir.
+
+403
+00:28:00,261 --> 00:28:05,925
+A fórmula. Despesa acumulada é igual à quantidade
+esperada, vezes o valor justo, vezes os
+
+404
+00:28:05,925 --> 00:28:08,725
+anos decorridos divididos pelos anos totais.
+
+405
+00:28:09,061 --> 00:28:13,601
+E a despesa do ano é a acumulada deste ano
+menos a acumulada do ano anterior.
+
+406
+00:28:13,961 --> 00:28:20,646
+Exemplo do material, em ações: 15.000 opções, valor
+justo na outorga de R$ 32, período de 3
+
+407
+00:28:20,646 --> 00:28:25,422
+anos. Total: 15.000 vezes 32, igual a 480.000.
+
+408
+00:28:25,422 --> 00:28:30,436
+Por ano: 480.000 dividido por
+3, igual a 160.000.
+
+409
+00:28:30,794 --> 00:28:34,984
+Lançamento: débito em despesa com PBA,
+crédito em reserva de capital.
+
+410
+00:28:34,984 --> 00:28:36,878
+160.000 em cada ano.
+
+411
+00:28:37,228 --> 00:28:42,399
+Questão B1, de treino. A empresa outorga 10.000
+opções, com valor justo na outorga de R$
+
+412
+00:28:42,399 --> 00:28:45,214
+20, e condição de permanência por 4 anos.
+
+413
+00:28:45,214 --> 00:28:51,189
+Estimativa de desligamento: 10% no ano 1,
+revisada para 20% nos anos 2 e 3.
+
+414
+00:28:51,189 --> 00:28:54,004
+No ano 4, 15% realmente saíram.
+
+415
+00:28:54,361 --> 00:29:00,773
+Os valores justos das ações foram R$ 25,
+22, 30 e 28 nos anos 1 a 4.
+
+416
+00:29:00,773 --> 00:29:03,521
+Calcule a despesa de cada ano e o efeito fiscal.
+
+417
+00:29:03,861 --> 00:29:10,073
+Primeira pergunta: como paga? Em ações.
+Então risque 25, 22, 30 e 28.
+
+418
+00:29:10,073 --> 00:29:13,895
+São distratores. O único valor justo
+que importa é o da outorga:
+
+419
+00:29:13,895 --> 00:29:14,612
+R$ 20.
+
+420
+00:29:14,961 --> 00:29:21,463
+Linha das opções esperadas. Ano 1: espera-se que
+10% saiam, então ficam 90% de 10.000:
+
+421
+00:29:21,463 --> 00:29:21,985
+9.000.
+
+422
+00:29:22,328 --> 00:29:26,794
+Ano 2: a estimativa sobe para 20%, ficam 80%:
+
+423
+00:29:26,794 --> 00:29:30,837
+8.000. Ano 3: continua 20%, 8.000. Ano 4:
+
+424
+00:29:30,837 --> 00:29:36,329
+saíram de verdade 15%, ficam 85%: 8.500.
+
+425
+00:29:36,694 --> 00:29:41,435
+Despesa acumulada: opções, vezes 20,
+vezes anos decorridos sobre 4.
+
+426
+00:29:41,435 --> 00:29:45,669
+Ano 1: 9.000 vezes 20 vezes um quarto: 45.000.
+
+427
+00:29:46,028 --> 00:29:49,108
+Ano 2: 8.000 vezes 20 vezes dois quartos:
+
+428
+00:29:49,108 --> 00:29:49,847
+80.000.
+
+429
+00:29:50,194 --> 00:29:53,148
+Ano 3: 8.000 vezes 20 vezes três quartos:
+
+430
+00:29:53,148 --> 00:29:54,212
+120.000.
+
+431
+00:29:54,561 --> 00:29:58,486
+Ano 4: 8.500 vezes 20 vezes quatro quartos:
+
+432
+00:29:58,486 --> 00:29:59,658
+170.000.
+
+433
+00:29:59,994 --> 00:30:02,601
+Despesa do ano: a acumulada menos a anterior.
+
+434
+00:30:02,601 --> 00:30:05,672
+Ano 1: 45.000, porque não há anterior.
+
+435
+00:30:06,028 --> 00:30:10,700
+Ano 2: 80.000 menos 45.000, 35.000. Ano 3:
+
+436
+00:30:10,700 --> 00:30:17,916
+120.000 menos 80.000, 40.000. Ano 4:
+170.000 menos 120.000, 50.000.
+
+437
+00:30:18,261 --> 00:30:27,715
+Conferência: 45.000 mais 35.000 mais 40.000 mais
+50.000 dá 170.000, que é 8.500 vezes 20.
+
+438
+00:30:27,715 --> 00:30:28,072
+Bateu.
+
+439
+00:30:28,428 --> 00:30:33,920
+Agora, o efeito fiscal. A despesa de PBA é
+adicionada ao lucro real no ano em que aparece
+
+440
+00:30:33,920 --> 00:30:36,990
+na DRE, e só é dedutível na entrega das ações.
+
+441
+00:30:36,990 --> 00:30:45,553
+Pela Lei 12.973, de 2014, artigo 33, é diferença
+temporária, e gera ativo fiscal diferido.
+
+442
+00:30:45,553 --> 00:30:49,628
+Lembre de confirmar com o professor se
+ele adota esse mesmo critério.
+
+443
+00:30:49,961 --> 00:30:54,717
+Atenção ao que esta linha mostra. Aqui estou
+mostrando o efeito no resultado do ano:
+
+444
+00:30:54,717 --> 00:31:01,908
+34% da despesa do ano. Ano 1: 34%
+de 45.000, 15.300.
+
+445
+00:31:01,908 --> 00:31:10,855
+Ano 2: 34% de 35.000, 11.900. Ano 3:
+34% de 40.000, 13.600.
+
+446
+00:31:10,855 --> 00:31:14,818
+Ano 4: 34% de 50.000, 17.000.
+
+447
+00:31:15,161 --> 00:31:19,538
+Como ainda não houve reversão, o efeito do ano
+coincide com a movimentação do ativo
+
+448
+00:31:19,538 --> 00:31:21,963
+diferido naquele ano. Não é o saldo acumulado.
+
+449
+00:31:21,963 --> 00:31:26,551
+Guarde isso, porque na questão C1 a linha com esse
+mesmo nome vai mostrar outra coisa.
+
+450
+00:31:26,894 --> 00:31:31,082
+Lançamento em cada ano: débito em despesa
+com remuneração baseada em ações.
+
+451
+00:31:31,082 --> 00:31:32,758
+Crédito em reserva de capital.
+
+452
+00:31:33,094 --> 00:31:39,379
+Questão B2, a DRE completa. A empresa outorga
+12.000 opções, com valor justo de R$ 15,
+
+453
+00:31:39,379 --> 00:31:42,763
+condição de permanência de 3
+anos, sem desligamentos.
+
+454
+00:31:42,763 --> 00:31:46,208
+O lucro antes do PBA é de R$ 200.000 por ano.
+
+455
+00:31:46,208 --> 00:31:47,235
+Faça a DRE.
+
+456
+00:31:47,594 --> 00:31:49,990
+Sem desligamentos, a quantidade não muda.
+
+457
+00:31:49,990 --> 00:31:54,665
+Despesa por ano: 12.000 vezes 15,
+dividido por 3, igual a 60.000.
+
+458
+00:31:55,028 --> 00:31:59,755
+DRE. Lucro antes do PBA: 200.000.
+Menos a despesa com PBA:
+
+459
+00:31:59,755 --> 00:32:03,561
+60.000. LAIR: 140.000. Igual nos três anos.
+
+460
+00:32:03,894 --> 00:32:10,263
+Apuração fiscal: o LAIR de 140.000, mais a adição
+do PBA de 60.000, dá lucro real de
+
+461
+00:32:10,263 --> 00:32:17,525
+200.000. E 34% disso é 68.000 de IR
+corrente, que entra negativo na DRE.
+
+462
+00:32:18,028 --> 00:32:25,254
+IR diferido: 34% da despesa de 60.000,
+20.400 de ativo diferido no ano.
+
+463
+00:32:25,254 --> 00:32:29,255
+Ele entra positivo na DRE, porque
+reduz a despesa de imposto.
+
+464
+00:32:29,594 --> 00:32:38,058
+Lucro líquido: 140.000 menos 68.000 mais
+20.400, igual a 92.400, em cada ano.
+
+465
+00:32:38,594 --> 00:32:46,332
+Prova dos nove: o IR total é 68.000
+menos 20.400, igual a 47.600.
+
+466
+00:32:46,332 --> 00:32:52,596
+E 34% de 140.000 também dá 47.600. Bateu.
+
+467
+00:32:52,961 --> 00:32:56,560
+Lançamento anual: débito em
+despesa com PBA, 60.000.
+
+468
+00:32:56,560 --> 00:32:59,114
+Crédito em reserva de capital, 60.000.
+
+469
+00:32:59,993 --> 00:33:02,888
+Segunda parte do PBA: o plano
+liquidado em caixa.
+
+470
+00:33:02,888 --> 00:33:07,421
+A empresa vai pagar em dinheiro, então a
+contrapartida é passivo, e o valor justo é
+
+471
+00:33:07,421 --> 00:33:08,677
+remensurado a cada ano.
+
+472
+00:33:09,026 --> 00:33:14,783
+A fórmula muda num ponto só. Passivo acumulado é
+igual à quantidade esperada, vezes o valor
+
+473
+00:33:14,783 --> 00:33:18,578
+justo do ano, vezes os anos
+decorridos sobre os anos totais.
+
+474
+00:33:18,578 --> 00:33:21,298
+E a despesa do ano é a variação do passivo.
+
+475
+00:33:21,660 --> 00:33:27,215
+Primeiro, o exemplo do material: o mesmo plano de
+15.000 opções e 3 anos, agora pago em
+
+476
+00:33:27,215 --> 00:33:32,178
+caixa. Valores justos de 35, 30 e
+40 nos anos 1, 2 e 3.
+
+477
+00:33:32,526 --> 00:33:38,263
+Ano 1: 15.000 vezes 35 vezes um
+terço, 175.000 de passivo.
+
+478
+00:33:38,263 --> 00:33:40,921
+Despesa do ano: 175.000.
+
+479
+00:33:41,260 --> 00:33:46,613
+Ano 2: 15.000 vezes 30, que é o valor justo
+do ano 2, vezes dois terços:
+
+480
+00:33:46,613 --> 00:33:50,845
+300.000. Menos os 175.000 já reconhecidos:
+
+481
+00:33:50,845 --> 00:33:53,148
+despesa de 125.000.
+
+482
+00:33:53,493 --> 00:33:56,741
+Ano 3: 15.000 vezes 40 vezes três terços:
+
+483
+00:33:56,741 --> 00:34:00,471
+600.000. Menos 300.000: despesa de 300.000.
+
+484
+00:34:00,826 --> 00:34:07,850
+Compare com o mesmo plano em ações: lá eram 160.000
+por ano, fixos, com o valor justo de 32
+
+485
+00:34:07,850 --> 00:34:11,148
+congelado. Aqui, a despesa oscila
+com o preço da ação.
+
+486
+00:34:11,493 --> 00:34:16,945
+Questão C1, de treino. A empresa outorga 6.000
+direitos de receber em dinheiro o valor da
+
+487
+00:34:16,945 --> 00:34:19,993
+ação, que a questão chama pela
+sigla em inglês SARs.
+
+488
+00:34:19,993 --> 00:34:25,445
+Condição de permanência de 3 anos, sem
+desligamentos, e pagamento no início do ano 4.
+
+489
+00:34:25,445 --> 00:34:30,427
+Valor justo: R$ 10 no ano 1, R$ 14 no
+ano 2 e R$ 12 no ano 3.
+
+490
+00:34:30,427 --> 00:34:33,006
+Calcule a despesa de cada ano e o pagamento.
+
+491
+00:34:33,360 --> 00:34:36,098
+Como paga? Em dinheiro: liquidado em caixa.
+
+492
+00:34:36,098 --> 00:34:39,664
+Aqui o valor justo de cada ano
+vale, e nada é distrator.
+
+493
+00:34:40,026 --> 00:34:43,986
+Passivo acumulado. Ano 1: 6.000
+vezes 10 vezes um terço:
+
+494
+00:34:43,986 --> 00:34:44,636
+20.000.
+
+495
+00:34:44,993 --> 00:34:49,567
+Ano 2: 6.000 vezes 14 vezes dois terços: 56.000.
+
+496
+00:34:49,926 --> 00:34:54,094
+Ano 3: 6.000 vezes 12 vezes três terços: 72.000.
+
+497
+00:34:54,460 --> 00:34:57,660
+Despesa do ano, que é a variação. Ano 1: 20.000.
+
+498
+00:34:57,660 --> 00:35:02,338
+Ano 2: 56.000 menos 20.000, 36.000. Ano 3:
+
+499
+00:35:02,338 --> 00:35:06,093
+72.000 menos 56.000, 16.000.
+
+500
+00:35:06,426 --> 00:35:11,439
+Agora a linha do ativo fiscal diferido. Preste
+atenção, porque ela mede uma coisa diferente
+
+501
+00:35:11,439 --> 00:35:14,027
+da B1. Aqui estou mostrando o saldo acumulado:
+
+502
+00:35:14,027 --> 00:35:17,883
+34% do passivo acumulado até aquele ano. Ano 1:
+
+503
+00:35:17,883 --> 00:35:26,034
+34% de 20.000, 6.800. Ano 2: 34%
+de 56.000, 19.040.
+
+504
+00:35:26,034 --> 00:35:31,597
+Ano 3: 34% de 72.000, 24.480.
+
+505
+00:35:31,960 --> 00:35:35,110
+Na B1, a linha mostrava o efeito
+no resultado do ano.
+
+506
+00:35:35,110 --> 00:35:39,018
+Aqui, mostra o saldo acumulado. As duas
+tabelas não se contradizem:
+
+507
+00:35:39,018 --> 00:35:41,701
+são conceitos diferentes, com nomes parecidos.
+
+508
+00:35:42,060 --> 00:35:46,510
+Se você quiser o efeito no resultado de um ano
+aqui, faça a variação do saldo.
+
+509
+00:35:46,510 --> 00:35:54,725
+Esta conta é nossa, não está no arquivo: no ano 2,
+19.040 menos 6.800 dá 12.240, que é
+
+510
+00:35:54,725 --> 00:35:58,662
+exatamente 34% da despesa de 36.000.
+
+511
+00:35:59,026 --> 00:36:04,216
+Lançamento anual: débito em despesa com PBA,
+crédito em passivo por PBA a liquidar.
+
+512
+00:36:04,560 --> 00:36:09,536
+Pagamento, no início do ano 4: débito
+em passivo por PBA, 72.000.
+
+513
+00:36:09,536 --> 00:36:15,727
+Crédito em caixa, 72.000. Nesse momento ocorre a
+exclusão fiscal de 72.000, o valor
+
+514
+00:36:15,727 --> 00:36:18,620
+efetivamente pago, e a reversão
+do ativo diferido.
+
+515
+00:36:18,960 --> 00:36:23,045
+A diferença para o plano em ações: aqui o
+preço da ação muda a despesa.
+
+516
+00:36:23,045 --> 00:36:28,453
+No ano 3, a despesa cai para 16.000, porque o
+valor justo caiu de 14 para 12.
+
+517
+00:36:28,453 --> 00:36:30,581
+Em plano em ações, isso não acontece.
+
+518
+00:36:30,926 --> 00:36:36,676
+Questão C2, juntando as duas variações. A empresa
+outorga 200 direitos em dinheiro a cada
+
+519
+00:36:36,676 --> 00:36:40,885
+um de 100 empregados, 20.000 no total,
+com permanência de 3 anos.
+
+520
+00:36:40,885 --> 00:36:48,413
+Estimativa de desligamento: 10% no ano 1, 15% no
+ano 2, e desligamento real de 12% no ano
+
+521
+00:36:48,413 --> 00:36:51,674
+3. Valor justo: R$ 8, R$ 9 e R$ 11.
+
+522
+00:36:52,026 --> 00:36:56,903
+Primeira linha, o desligamento: 10%, 15% e 12%.
+
+523
+00:36:57,260 --> 00:37:02,088
+Direitos esperados. Ano 1: ficam
+90% de 20.000, 18.000.
+
+524
+00:37:02,088 --> 00:37:09,950
+Ano 2: ficam 85%, 17.000. Ano 3:
+ficam 88%, 17.600.
+
+525
+00:37:10,293 --> 00:37:14,728
+Valor justo de cada ano: 8, 9 e 11.
+Em caixa, todos valem.
+
+526
+00:37:15,093 --> 00:37:19,079
+Passivo acumulado. Ano 1: 18.000
+vezes 8 vezes um terço:
+
+527
+00:37:19,079 --> 00:37:20,306
+48.000.
+
+528
+00:37:20,660 --> 00:37:24,897
+Ano 2: 17.000 vezes 9 vezes
+dois terços: 102.000.
+
+529
+00:37:25,260 --> 00:37:29,207
+Ano 3: 17.600 vezes 11 vezes três terços:
+
+530
+00:37:29,207 --> 00:37:31,599
+193.600.
+
+531
+00:37:31,960 --> 00:37:39,105
+Despesa do ano. Ano 1: 48.000. Ano 2:
+102.000 menos 48.000, 54.000.
+
+532
+00:37:39,105 --> 00:37:45,195
+Ano 3: 193.600 menos 102.000, 91.600.
+
+533
+00:37:45,560 --> 00:37:54,917
+Conferência: 48.000 mais 54.000 mais 91.600 dá
+193.600, que é o valor pago ao final.
+
+534
+00:37:55,260 --> 00:38:00,552
+Lançamento anual: débito em despesa com PBA,
+crédito em passivo por PBA a liquidar.
+
+535
+00:38:00,552 --> 00:38:04,855
+Na liquidação: débito em passivo, 193.600.
+
+536
+00:38:04,855 --> 00:38:08,228
+Crédito em caixa, 193.600.
+
+537
+00:38:09,193 --> 00:38:13,925
+Unidade 3, segunda parte: benefícios
+a empregados, o CPC 33.
+
+538
+00:38:13,925 --> 00:38:17,877
+No nosso material, essa parte é só
+teoria, sem questão de cálculo.
+
+539
+00:38:18,226 --> 00:38:21,812
+O que é: o que a empresa dá ao empregado
+em troca do trabalho dele.
+
+540
+00:38:21,812 --> 00:38:25,343
+O CPC 33 separa esses benefícios
+em quatro grupos.
+
+541
+00:38:25,693 --> 00:38:28,528
+Curto prazo: salários, férias e décimo terceiro.
+
+542
+00:38:28,528 --> 00:38:33,135
+Despesa e passivo no período do serviço:
+trabalhou no mês, a despesa é do mês.
+
+543
+00:38:33,493 --> 00:38:37,766
+Pós-emprego: aposentadoria e assistência
+médica depois que o empregado sai.
+
+544
+00:38:38,126 --> 00:38:40,866
+Outros de longo prazo: licença-prêmio e jubileu.
+
+545
+00:38:40,866 --> 00:38:44,291
+São benefícios ligados a muitos anos
+de trabalho na empresa.
+
+546
+00:38:44,626 --> 00:38:47,053
+Rescisão: indenização por desligamento.
+
+547
+00:38:47,393 --> 00:38:50,918
+Como identificar: pergunte quando e
+por que o benefício é pago.
+
+548
+00:38:50,918 --> 00:38:55,281
+No período do serviço, é curto prazo. Depois
+que o empregado sai, pós-emprego.
+
+549
+00:38:55,281 --> 00:38:58,022
+Pelos muitos anos de casa,
+outros de longo prazo.
+
+550
+00:38:58,022 --> 00:39:00,036
+Por causa do desligamento, rescisão.
+
+551
+00:39:00,393 --> 00:39:02,854
+Dentro do pós-emprego há dois tipos de plano.
+
+552
+00:39:02,854 --> 00:39:05,316
+E aqui a pergunta-chave é: de quem é o risco?
+
+553
+00:39:05,660 --> 00:39:09,287
+Contribuição definida: a empresa só paga
+a contribuição combinada.
+
+554
+00:39:09,287 --> 00:39:12,694
+O risco é do empregado. A despesa é a
+contribuição do período.
+
+555
+00:39:12,694 --> 00:39:17,421
+Analogia: a empresa faz a parte dela todo mês, e o
+tamanho da aposentadoria depende de
+
+556
+00:39:17,421 --> 00:39:20,718
+quanto o dinheiro rendeu. Isso já não
+é problema da empresa.
+
+557
+00:39:21,060 --> 00:39:23,893
+Benefício definido: a empresa
+garante o benefício.
+
+558
+00:39:23,893 --> 00:39:28,711
+O risco é da empresa. Por isso exige cálculo
+atuarial, que é a estimativa de quanto a
+
+559
+00:39:28,711 --> 00:39:33,358
+empresa vai ter que pagar no futuro. O método é
+o da unidade de crédito projetada.
+
+560
+00:39:33,358 --> 00:39:37,778
+O material só cita o nome do método; os
+detalhes desse cálculo não estão nele.
+
+561
+00:39:38,126 --> 00:39:43,213
+E a regra que liga com a Unidade 2: no benefício
+definido, ganhos e perdas atuariais vão
+
+562
+00:39:43,213 --> 00:39:47,070
+para ORA, outros resultados
+abrangentes, e não para o resultado.
+
+563
+00:39:47,070 --> 00:39:51,989
+Ganho ou perda atuarial é o ajuste que aparece
+quando as estimativas do cálculo atuarial
+
+564
+00:39:51,989 --> 00:39:58,026
+mudam. E lembre da regra do CPC 32: se o item vai
+para ORA, o diferido dele também vai.
+
+565
+00:39:58,360 --> 00:40:02,916
+Na prova: saber os quatro grupos com exemplos,
+diferenciar contribuição definida de
+
+566
+00:40:02,916 --> 00:40:07,636
+benefício definido pelo risco, e lembrar que
+ganho e perda atuarial vão para ORA.
+
+567
+00:40:08,593 --> 00:40:12,046
+Agora, os seis erros que mais custam
+nota, segundo o material.
+
+568
+00:40:12,046 --> 00:40:13,829
+Para cada um, o jeito de evitar.
+
+569
+00:40:14,193 --> 00:40:17,063
+Um: constituir diferido sobre
+diferença permanente.
+
+570
+00:40:17,063 --> 00:40:19,990
+Para evitar, pergunte se o Fisco
+um dia vai aceitar.
+
+571
+00:40:19,990 --> 00:40:23,818
+A multa da A2, nunca: ela entra na
+adição, mas não gera diferido.
+
+572
+00:40:24,160 --> 00:40:27,262
+Dois: lançar o saldo do diferido
+em vez da variação.
+
+573
+00:40:27,262 --> 00:40:31,259
+Para evitar, no resultado é sempre saldo
+final menos saldo inicial.
+
+574
+00:40:31,259 --> 00:40:38,359
+Na C1, o saldo do ano 2 é 19.040, mas o
+efeito no resultado do ano é 12.240.
+
+575
+00:40:38,693 --> 00:40:44,120
+Três: trocar o sinal. Depreciação acelerada
+gera passivo, e PECLD gera ativo.
+
+576
+00:40:44,120 --> 00:40:47,402
+Para evitar, pergunte: hoje pago
+menos ou pago mais?
+
+577
+00:40:47,402 --> 00:40:49,989
+Pago menos agora, dívida futura, passivo.
+
+578
+00:40:49,989 --> 00:40:52,451
+Pago mais agora, crédito futuro, ativo.
+
+579
+00:40:52,793 --> 00:40:57,092
+Quatro: esquecer a trava de 30% na
+compensação de prejuízo fiscal.
+
+580
+00:40:57,092 --> 00:41:00,248
+A compensação é limitada a 30% do lucro real.
+
+581
+00:41:00,248 --> 00:41:04,111
+E não confunda com a alíquota de 30%
+do exemplo do trator:
+
+582
+00:41:04,111 --> 00:41:05,308
+são coisas diferentes.
+
+583
+00:41:05,660 --> 00:41:09,453
+Cinco: usar o valor justo do ano em
+PBA liquidado em ações.
+
+584
+00:41:09,453 --> 00:41:12,464
+Em ações, o valor justo é o da
+outorga, congelado.
+
+585
+00:41:12,464 --> 00:41:18,245
+Na B1, 25, 22, 30 e 28 eram
+distratores; só os 20 valiam.
+
+586
+00:41:18,593 --> 00:41:22,397
+Seis: não remensurar o passivo em
+PBA liquidado em caixa.
+
+587
+00:41:22,397 --> 00:41:27,324
+Em caixa, todo ano use o valor justo daquele
+ano e recalcule o passivo inteiro.
+
+588
+00:41:27,324 --> 00:41:30,005
+Na C1, o ano 3 usa 12, e não 14.
+
+589
+00:41:30,360 --> 00:41:35,445
+E um cuidado extra que vimos hoje: uma linha chamada
+"ativo fiscal diferido" pode mostrar o
+
+590
+00:41:35,445 --> 00:41:38,988
+efeito do ano, como na B1, ou o saldo
+acumulado, como na C1.
+
+591
+00:41:38,988 --> 00:41:41,331
+Veja sempre qual dos dois a questão pede.
+
+592
+00:41:42,293 --> 00:41:45,751
+Recapitulando o roteiro de
+qualquer questão de imposto:
+
+593
+00:41:45,751 --> 00:41:51,723
+LAIR, adições, exclusões, lucro real, IR corrente,
+diferido pela variação do saldo, e prova
+
+594
+00:41:51,723 --> 00:41:52,289
+dos nove.
+
+595
+00:41:52,626 --> 00:41:55,966
+E o roteiro de PBA: primeiro, em
+ações ou em caixa?
+
+596
+00:41:55,966 --> 00:42:00,338
+Depois, quantidade esperada, vezes valor
+justo, vezes a fração do tempo.
+
+597
+00:42:00,338 --> 00:42:03,435
+A despesa do ano é a diferença
+entre as acumuladas.
+
+598
+00:42:03,793 --> 00:42:08,700
+Uma sugestão de treino: pause o vídeo, pegue as
+questões A1 e B1, e refaça as tabelas
+
+599
+00:42:08,700 --> 00:42:13,325
+sozinha, sem olhar. Depois confira com a prova
+dos nove e com a soma das despesas.
+
+600
+00:42:13,660 --> 00:42:18,802
+E os três avisos, mais uma vez. As questões
+resolvidas foram elaboradas para treino; não
+
+601
+00:42:18,802 --> 00:42:27,452
+são do professor. O tratamento fiscal do PBA segue
+a Lei 12.973, de 2014, artigo 33, como
+
+602
+00:42:27,452 --> 00:42:31,952
+diferença temporária: confirme com o
+professor se ele adota o mesmo critério.
+
+603
+00:42:31,952 --> 00:42:34,465
+E confirme a data da prova com o professor.
+
+604
+00:42:34,826 --> 00:42:36,661
+Bons estudos, e boa prova!
+
