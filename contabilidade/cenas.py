@@ -356,10 +356,10 @@ class Cena02(Aula):
                   "ex.: OCPC 09", VER, "manual de dicas")]
         cs = VGroup()
         for tit, corpo, eq, cor, _ in dados:
-            cs.add(cartao(tit, corpo, cor=cor, larg=4.25, n=24, size=22, alt=3.6, rodape=eq))
-        cs.arrange(RIGHT, buff=0.25).shift(UP * 0.5)
+            cs.add(cartao(tit, corpo, cor=cor, larg=4.4, n=30, size=22, alt=3.3, rodape=eq))
         sub = T("CPC = Comitê de Pronunciamentos Contábeis: emite três tipos de documento",
-                size=24, color=DIM).next_to(cs, UP, buff=0.3)
+                size=24, color=DIM).move_to(UP * 2.75)
+        cs.arrange(RIGHT, buff=0.2, aligned_edge=UP).next_to(sub, DOWN, buff=0.3)
         self.em("Comitê de Pronunciamentos Contábeis", FadeIn(sub))
         self.fala("c2_cpc_cpc")
         self.em("Pronunciamento", FadeIn(cs[0][:3], shift=UP * 0.2))
@@ -427,10 +427,10 @@ class Cena02(Aula):
         for k, (cname, cor) in enumerate(zip(caps, cores6)):
             ang = PI / 2 - k * TAU / 6
             pos = np.array([np.cos(ang) * 3.7, np.sin(ang) * 2.0 + 0.1, 0])
-            cc = Circle(radius=0.85, color=cor, stroke_width=3).set_fill(PAINEL, 1).move_to(pos)
-            tt = T(cname, size=19, color=cor).move_to(pos)
-            if tt.width > 1.5:
-                tt.scale_to_fit_width(1.5)
+            cc = Circle(radius=0.95, color=cor, stroke_width=3).set_fill(PAINEL, 1).move_to(pos)
+            tt = T(cname, size=21, color=cor, line_spacing=0.8).move_to(pos)
+            if tt.width > 1.78:
+                tt.scale_to_fit_width(1.78)
             circ.add(VGroup(cc, tt))
         centro.move_to([0, 0.1, 0])
         self.em("cria valor", FadeIn(centro))
@@ -1162,7 +1162,7 @@ class Cena05(Aula):
         rot = ["Contrapartida da despesa", "Valor justo usado", "Muda quando o preço da ação muda?",
                "O que se revisa ao longo do tempo"]
         g = Grade(rot, ["Em ações", "Em caixa"], larg_rot=4.7, larg_cols=[4.3, 4.6], alt=0.62,
-                  alts=[0.85, 0.62, 0.85, 0.85], size=23, alinhar_valores=LEFT, n_rot=24)
+                  alts=[0.85, 0.85, 0.85, 0.85], size=23, alinhar_valores=LEFT, n_rot=24)
         g.move_to(UP * 0.4)
         self.play(FadeIn(g.linhas), FadeIn(g.cab), run_time=0.5)
         quadro = [("PL (reserva de capital)", "Passivo"),
@@ -1173,12 +1173,12 @@ class Cena05(Aula):
             if i:
                 self.fala(k)
             self.rotulo(g, i)
-            self.em("Em ações", self.escreve(g, i, 0, a, AZUL))
+            self.em("Em ações", self.escreve(g, i, 0, a, AZUL, n=24))
             if k == "c5_q1":
                 rcap = T("reserva de capital = conta do patrimônio líquido (PL)", size=22, color=DIM)
                 rcap.to_edge(DOWN, buff=1.0)
                 self.em("conta do patrimônio líquido", FadeIn(rcap))
-            self.em("Em caixa", self.escreve(g, i, 1, b, VER))
+            self.em("Em caixa", self.escreve(g, i, 1, b, VER, n=24))
             if k == "c5_q2":
                 self.play(FadeOut(rcap), run_time=0.3)
         self.fala("c5_q_prova")
@@ -1644,10 +1644,10 @@ class Cena08(Aula):
                   "Em caixa: VJ de cada ano, recalcula o passivo inteiro. C1, ano 3: usa 12, não 14.")]
         cards = VGroup()
         for k, (a, b) in enumerate(erros):
-            c = cartao(f"{k + 1}. ✗ {a}", "✓ " + b, cor=VERM, larg=4.35, n=26, size=20, alt=2.75)
+            c = cartao(f"{k + 1}. ✗ {a}", "✓ " + b, cor=VERM, larg=4.4, n=32, size=19, alt=2.6)
             c[2].set_color(VER)
             cards.add(c)
-        cards.arrange_in_grid(2, 3, buff=0.2).shift(DOWN * 0.2)
+        cards.arrange_in_grid(2, 3, buff=0.2).move_to(UP * 0.02)
         nomes = ["Um", "Dois", "Três", "Quatro", "Cinco", "Seis"]
         for k, (card, nome) in enumerate(zip(cards, nomes)):
             self.fala(f"c8_e{k + 1}")
@@ -1659,8 +1659,7 @@ class Cena08(Aula):
                      "Veja o que a questão pede.", size=22, color=AMA), cor=AMA, buff=0.12)
         if ex.width > 13.6:
             ex.scale_to_fit_width(13.6)
-        self.play(cards.animate.shift(UP * 0.25), run_time=0.4)
-        ex.to_edge(DOWN, buff=0.12)
+        ex.to_edge(DOWN, buff=0.15)
         self.em("cuidado extra", FadeIn(ex, shift=UP * 0.2))
 
 
